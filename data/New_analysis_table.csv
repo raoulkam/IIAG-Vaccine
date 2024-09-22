@@ -1,0 +1,1621 @@
+CODE,YEAR,NAME,ANTIGEN,COVERAGE,TARGET,REGION,YEARNUM,ogs,IIAG_SCORE
+AGO,2012,Angola,DTPCV1,66,913500,Middle Africa,1,36.1,35.23
+AGO,2012,Angola,DTPCV3,53,913500,Middle Africa,1,36.1,35.23
+AGO,2012,Angola,MCV1,65,913500,Middle Africa,1,36.1,35.23
+AGO,2013,Angola,DTPCV1,67,939074,Middle Africa,2,36.1,35.24
+AGO,2013,Angola,DTPCV3,54,939074,Middle Africa,2,36.1,35.24
+AGO,2013,Angola,MCV1,59,939074,Middle Africa,2,36.1,35.24
+AGO,2014,Angola,DTPCV1,69,1036287,Middle Africa,3,36.1,35.26
+AGO,2014,Angola,DTPCV3,55,1036287,Middle Africa,3,36.1,35.26
+AGO,2014,Angola,MCV1,56,1036287,Middle Africa,3,36.1,35.26
+AGO,2015,Angola,DTPCV1,72,1065307,Middle Africa,4,36.6,35.76
+AGO,2015,Angola,DTPCV3,59,1065307,Middle Africa,4,36.6,35.76
+AGO,2015,Angola,MCV1,51,1065307,Middle Africa,4,36.6,35.76
+AGO,2016,Angola,DTPCV1,74,954088,Middle Africa,5,36.5,35.68
+AGO,2016,Angola,DTPCV3,59,954088,Middle Africa,5,36.5,35.68
+AGO,2016,Angola,MCV1,45,954088,Middle Africa,5,36.5,35.68
+AGO,2017,Angola,DTPCV1,68,987965,Middle Africa,6,37.4,36.66
+AGO,2017,Angola,DTPCV3,56,987965,Middle Africa,6,37.4,36.66
+AGO,2017,Angola,MCV1,42,987965,Middle Africa,6,37.4,36.66
+AGO,2018,Angola,DTPCV1,74,1023479,Middle Africa,7,39.5,38.8
+AGO,2018,Angola,DTPCV3,63,1023479,Middle Africa,7,39.5,38.8
+AGO,2018,Angola,MCV1,50,1023479,Middle Africa,7,39.5,38.8
+AGO,2019,Angola,DTPCV1,67,1060045,Middle Africa,8,40.6,39.94
+AGO,2019,Angola,DTPCV3,57,1060045,Middle Africa,8,40.6,39.94
+AGO,2019,Angola,MCV1,51,1060045,Middle Africa,8,40.6,39.94
+AGO,2020,Angola,DTPCV1,61,1089677,Middle Africa,9,41.1,40.43
+AGO,2020,Angola,DTPCV3,51,1089677,Middle Africa,9,41.1,40.43
+AGO,2020,Angola,MCV1,44,1089677,Middle Africa,9,41.1,40.43
+AGO,2021,Angola,DTPCV1,57,1110425,Middle Africa,10,41.5,40.78
+AGO,2021,Angola,DTPCV3,45,1110425,Middle Africa,10,41.5,40.78
+AGO,2021,Angola,MCV1,36,1110425,Middle Africa,10,41.5,40.78
+BDI,2012,Burundi,DTPCV1,98,327635,Eastern Africa,1,41.7,41.37
+BDI,2012,Burundi,DTPCV3,96,327635,Eastern Africa,1,41.7,41.37
+BDI,2012,Burundi,MCV1,93,327635,Eastern Africa,1,41.7,41.37
+BDI,2013,Burundi,DTPCV1,98,335498,Eastern Africa,2,41.3,40.89
+BDI,2013,Burundi,DTPCV3,96,335498,Eastern Africa,2,41.3,40.89
+BDI,2013,Burundi,MCV1,98,335498,Eastern Africa,2,41.3,40.89
+BDI,2014,Burundi,DTPCV1,98,343550,Eastern Africa,3,41.2,40.85
+BDI,2014,Burundi,DTPCV3,95,343550,Eastern Africa,3,41.2,40.85
+BDI,2014,Burundi,MCV1,94,343550,Eastern Africa,3,41.2,40.85
+BDI,2015,Burundi,DTPCV1,97,353824,Eastern Africa,4,38.8,38.31
+BDI,2015,Burundi,DTPCV3,94,353824,Eastern Africa,4,38.8,38.31
+BDI,2015,Burundi,MCV1,93,353824,Eastern Africa,4,38.8,38.31
+BDI,2016,Burundi,DTPCV1,97,360548,Eastern Africa,5,38.1,37.57
+BDI,2016,Burundi,DTPCV3,94,360548,Eastern Africa,5,38.1,37.57
+BDI,2016,Burundi,MCV1,93,360548,Eastern Africa,5,38.1,37.57
+BDI,2017,Burundi,DTPCV1,94,369202,Eastern Africa,6,38.5,37.98
+BDI,2017,Burundi,DTPCV3,91,369202,Eastern Africa,6,38.5,37.98
+BDI,2017,Burundi,MCV1,90,369202,Eastern Africa,6,38.5,37.98
+BDI,2018,Burundi,DTPCV1,94,378062,Eastern Africa,7,38.4,37.83
+BDI,2018,Burundi,DTPCV3,90,378062,Eastern Africa,7,38.4,37.83
+BDI,2018,Burundi,MCV1,88,378062,Eastern Africa,7,38.4,37.83
+BDI,2019,Burundi,DTPCV1,97,386715,Eastern Africa,8,39,38.12
+BDI,2019,Burundi,DTPCV3,93,386715,Eastern Africa,8,39,38.12
+BDI,2019,Burundi,MCV1,92,386715,Eastern Africa,8,39,38.12
+BDI,2020,Burundi,DTPCV1,98,397310,Eastern Africa,9,39.7,38.87
+BDI,2020,Burundi,DTPCV3,93,397310,Eastern Africa,9,39.7,38.87
+BDI,2020,Burundi,MCV1,90,397310,Eastern Africa,9,39.7,38.87
+BDI,2021,Burundi,DTPCV1,96,465259,Eastern Africa,10,40.4,39.58
+BDI,2021,Burundi,DTPCV3,94,465259,Eastern Africa,10,40.4,39.58
+BDI,2021,Burundi,MCV1,90,465259,Eastern Africa,10,40.4,39.58
+BEN,2012,Benin,DTPCV1,89,374619,Western Africa,1,56.4,56.86
+BEN,2012,Benin,DTPCV3,80,374619,Western Africa,1,56.4,56.86
+BEN,2012,Benin,MCV1,74,374619,Western Africa,1,56.4,56.86
+BEN,2013,Benin,DTPCV1,86,371820,Western Africa,2,56.1,56.56
+BEN,2013,Benin,DTPCV3,77,371820,Western Africa,2,56.1,56.56
+BEN,2013,Benin,MCV1,68,371820,Western Africa,2,56.1,56.56
+BEN,2014,Benin,DTPCV1,84,383988,Western Africa,3,57.2,57.66
+BEN,2014,Benin,DTPCV3,74,383988,Western Africa,3,57.2,57.66
+BEN,2014,Benin,MCV1,65,383988,Western Africa,3,57.2,57.66
+BEN,2015,Benin,DTPCV1,82,383727,Western Africa,4,57.1,57.48
+BEN,2015,Benin,DTPCV3,74,383727,Western Africa,4,57.1,57.48
+BEN,2015,Benin,MCV1,67,383727,Western Africa,4,57.1,57.48
+BEN,2016,Benin,DTPCV1,84,378097,Western Africa,5,57.8,58.27
+BEN,2016,Benin,DTPCV3,76,378097,Western Africa,5,57.8,58.27
+BEN,2016,Benin,MCV1,68,378097,Western Africa,5,57.8,58.27
+BEN,2017,Benin,DTPCV1,84,349767,Western Africa,6,57.9,58.3
+BEN,2017,Benin,DTPCV3,76,349767,Western Africa,6,57.9,58.3
+BEN,2017,Benin,MCV1,68,349767,Western Africa,6,57.9,58.3
+BEN,2018,Benin,DTPCV1,84,359827,Western Africa,7,57.8,58.14
+BEN,2018,Benin,DTPCV3,76,359827,Western Africa,7,57.8,58.14
+BEN,2018,Benin,MCV1,68,359827,Western Africa,7,57.8,58.14
+BEN,2019,Benin,DTPCV1,84,370173,Western Africa,8,56.4,56.69
+BEN,2019,Benin,DTPCV3,76,370173,Western Africa,8,56.4,56.69
+BEN,2019,Benin,MCV1,68,370173,Western Africa,8,56.4,56.69
+BEN,2020,Benin,DTPCV1,83,347445,Western Africa,9,56.8,57.08
+BEN,2020,Benin,DTPCV3,72,347445,Western Africa,9,56.8,57.08
+BEN,2020,Benin,MCV1,65,347445,Western Africa,9,56.8,57.08
+BEN,2021,Benin,DTPCV1,84,353636,Western Africa,10,56.1,56.28
+BEN,2021,Benin,DTPCV3,76,353636,Western Africa,10,56.1,56.28
+BEN,2021,Benin,MCV1,68,353636,Western Africa,10,56.1,56.28
+BFA,2012,Burkina Faso,DTPCV1,94,691254,Western Africa,1,54.4,54.86
+BFA,2012,Burkina Faso,DTPCV3,90,691254,Western Africa,1,54.4,54.86
+BFA,2012,Burkina Faso,MCV1,87,691254,Western Africa,1,54.4,54.86
+BFA,2013,Burkina Faso,DTPCV1,94,704651,Western Africa,2,54.3,54.75
+BFA,2013,Burkina Faso,DTPCV3,88,704651,Western Africa,2,54.3,54.75
+BFA,2013,Burkina Faso,MCV1,82,704651,Western Africa,2,54.3,54.75
+BFA,2014,Burkina Faso,DTPCV1,95,719287,Western Africa,3,54.9,55.34
+BFA,2014,Burkina Faso,DTPCV3,91,719287,Western Africa,3,54.9,55.34
+BFA,2014,Burkina Faso,MCV1,88,719287,Western Africa,3,54.9,55.34
+BFA,2015,Burkina Faso,DTPCV1,95,732675,Western Africa,4,55.8,56.2
+BFA,2015,Burkina Faso,DTPCV3,91,732675,Western Africa,4,55.8,56.2
+BFA,2015,Burkina Faso,MCV1,88,732675,Western Africa,4,55.8,56.2
+BFA,2016,Burkina Faso,DTPCV1,95,747362,Western Africa,5,55.9,56.29
+BFA,2016,Burkina Faso,DTPCV3,91,747362,Western Africa,5,55.9,56.29
+BFA,2016,Burkina Faso,MCV1,88,747362,Western Africa,5,55.9,56.29
+BFA,2017,Burkina Faso,DTPCV1,95,762074,Western Africa,6,57.3,57.71
+BFA,2017,Burkina Faso,DTPCV3,91,762074,Western Africa,6,57.3,57.71
+BFA,2017,Burkina Faso,MCV1,88,762074,Western Africa,6,57.3,57.71
+BFA,2018,Burkina Faso,DTPCV1,95,777145,Western Africa,7,57,57.42
+BFA,2018,Burkina Faso,DTPCV3,91,777145,Western Africa,7,57,57.42
+BFA,2018,Burkina Faso,MCV1,88,777145,Western Africa,7,57,57.42
+BFA,2019,Burkina Faso,DTPCV1,95,492047,Western Africa,8,55.4,55.45
+BFA,2019,Burkina Faso,DTPCV3,91,492047,Western Africa,8,55.4,55.45
+BFA,2019,Burkina Faso,MCV1,88,492047,Western Africa,8,55.4,55.45
+BFA,2020,Burkina Faso,DTPCV1,95,805961,Western Africa,9,55.2,55.21
+BFA,2020,Burkina Faso,DTPCV3,91,805961,Western Africa,9,55.2,55.21
+BFA,2020,Burkina Faso,MCV1,88,805961,Western Africa,9,55.2,55.21
+BFA,2021,Burkina Faso,DTPCV1,95,834638,Western Africa,10,54.6,54.51
+BFA,2021,Burkina Faso,DTPCV3,91,834638,Western Africa,10,54.6,54.51
+BFA,2021,Burkina Faso,MCV1,88,834638,Western Africa,10,54.6,54.51
+BWA,2012,Botswana,DTPCV1,98,43219,Southern Africa,1,67.3,67.71
+BWA,2012,Botswana,DTPCV3,95,43219,Southern Africa,1,67.3,67.71
+BWA,2012,Botswana,MCV1,97,43219,Southern Africa,1,67.3,67.71
+BWA,2013,Botswana,DTPCV1,98,46660,Southern Africa,2,67.4,67.81
+BWA,2013,Botswana,DTPCV3,95,46660,Southern Africa,2,67.4,67.81
+BWA,2013,Botswana,MCV1,97,46660,Southern Africa,2,67.4,67.81
+BWA,2014,Botswana,DTPCV1,98,51389,Southern Africa,3,67.2,67.59
+BWA,2014,Botswana,DTPCV3,95,51389,Southern Africa,3,67.2,67.59
+BWA,2014,Botswana,MCV1,97,51389,Southern Africa,3,67.2,67.59
+BWA,2015,Botswana,DTPCV1,98,59706,Southern Africa,4,67.5,67.8
+BWA,2015,Botswana,DTPCV3,95,59706,Southern Africa,4,67.5,67.8
+BWA,2015,Botswana,MCV1,97,59706,Southern Africa,4,67.5,67.8
+BWA,2016,Botswana,DTPCV1,98,46289.9038,Southern Africa,5,66.2,66.42
+BWA,2016,Botswana,DTPCV3,95,46289.9038,Southern Africa,5,66.2,66.42
+BWA,2016,Botswana,MCV1,97,46289.9038,Southern Africa,5,66.2,66.42
+BWA,2017,Botswana,DTPCV1,98,63349,Southern Africa,6,65.8,65.94
+BWA,2017,Botswana,DTPCV3,95,63349,Southern Africa,6,65.8,65.94
+BWA,2017,Botswana,MCV1,97,63349,Southern Africa,6,65.8,65.94
+BWA,2018,Botswana,DTPCV1,98,62953,Southern Africa,7,67.1,67.32
+BWA,2018,Botswana,DTPCV3,95,62953,Southern Africa,7,67.1,67.32
+BWA,2018,Botswana,MCV1,97,62953,Southern Africa,7,67.1,67.32
+BWA,2019,Botswana,DTPCV1,98,63476,Southern Africa,8,68.1,68.34
+BWA,2019,Botswana,DTPCV3,95,63476,Southern Africa,8,68.1,68.34
+BWA,2019,Botswana,MCV1,97,63476,Southern Africa,8,68.1,68.34
+BWA,2020,Botswana,DTPCV1,98,64682,Southern Africa,9,67.9,67.84
+BWA,2020,Botswana,DTPCV3,95,64682,Southern Africa,9,67.9,67.84
+BWA,2020,Botswana,MCV1,87,64682,Southern Africa,9,67.9,67.84
+BWA,2021,Botswana,DTPCV1,98,65876,Southern Africa,10,68.1,67.91
+BWA,2021,Botswana,DTPCV3,95,65876,Southern Africa,10,68.1,67.91
+BWA,2021,Botswana,MCV1,97,65876,Southern Africa,10,68.1,67.91
+CAF,2012,Central African Republic,DTPCV1,66,141777,Middle Africa,1,32.6,32.93
+CAF,2012,Central African Republic,DTPCV3,47,141777,Middle Africa,1,32.6,32.93
+CAF,2012,Central African Republic,MCV1,48,141777,Middle Africa,1,32.6,32.93
+CAF,2013,Central African Republic,DTPCV1,35,144648,Middle Africa,2,28.5,28.68
+CAF,2013,Central African Republic,DTPCV3,23,144648,Middle Africa,2,28.5,28.68
+CAF,2013,Central African Republic,MCV1,25,144648,Middle Africa,2,28.5,28.68
+CAF,2014,Central African Republic,DTPCV1,60,147589,Middle Africa,3,28.8,28.81
+CAF,2014,Central African Republic,DTPCV3,45,147589,Middle Africa,3,28.8,28.81
+CAF,2014,Central African Republic,MCV1,47,147589,Middle Africa,3,28.8,28.81
+CAF,2015,Central African Republic,DTPCV1,57,150574,Middle Africa,4,30.3,30.44
+CAF,2015,Central African Republic,DTPCV3,43,150574,Middle Africa,4,30.3,30.44
+CAF,2015,Central African Republic,MCV1,46,150574,Middle Africa,4,30.3,30.44
+CAF,2016,Central African Republic,DTPCV1,54,153587,Middle Africa,5,31.4,31.58
+CAF,2016,Central African Republic,DTPCV3,42,153587,Middle Africa,5,31.4,31.58
+CAF,2016,Central African Republic,MCV1,45,153587,Middle Africa,5,31.4,31.58
+CAF,2017,Central African Republic,DTPCV1,54,156685,Middle Africa,6,31.4,31.68
+CAF,2017,Central African Republic,DTPCV3,42,156685,Middle Africa,6,31.4,31.68
+CAF,2017,Central African Republic,MCV1,41,156685,Middle Africa,6,31.4,31.68
+CAF,2018,Central African Republic,DTPCV1,54,159801,Middle Africa,7,32.6,32.76
+CAF,2018,Central African Republic,DTPCV3,42,159801,Middle Africa,7,32.6,32.76
+CAF,2018,Central African Republic,MCV1,41,159801,Middle Africa,7,32.6,32.76
+CAF,2019,Central African Republic,DTPCV1,54,162952,Middle Africa,8,32.1,32.23
+CAF,2019,Central African Republic,DTPCV3,42,162952,Middle Africa,8,32.1,32.23
+CAF,2019,Central African Republic,MCV1,41,162952,Middle Africa,8,32.1,32.23
+CAF,2020,Central African Republic,DTPCV1,54,166134,Middle Africa,9,31.7,31.59
+CAF,2020,Central African Republic,DTPCV3,42,166134,Middle Africa,9,31.7,31.59
+CAF,2020,Central African Republic,MCV1,41,166134,Middle Africa,9,31.7,31.59
+CAF,2021,Central African Republic,DTPCV1,54,169348,Middle Africa,10,30.6,30.44
+CAF,2021,Central African Republic,DTPCV3,42,169348,Middle Africa,10,30.6,30.44
+CAF,2021,Central African Republic,MCV1,41,169348,Middle Africa,10,30.6,30.44
+CIV,2012,Côte d'Ivoire,DTPCV1,93,765308,Western Africa,1,48.9,48.91
+CIV,2012,Côte d'Ivoire,DTPCV3,82,765308,Western Africa,1,48.9,48.91
+CIV,2012,Côte d'Ivoire,MCV1,74,765308,Western Africa,1,48.9,48.91
+CIV,2013,Côte d'Ivoire,DTPCV1,83,795920,Western Africa,2,50.2,50.26
+CIV,2013,Côte d'Ivoire,DTPCV3,75,795920,Western Africa,2,50.2,50.26
+CIV,2013,Côte d'Ivoire,MCV1,69,795920,Western Africa,2,50.2,50.26
+CIV,2014,Côte d'Ivoire,DTPCV1,92,827757,Western Africa,3,51.1,51.14
+CIV,2014,Côte d'Ivoire,DTPCV3,73,827757,Western Africa,3,51.1,51.14
+CIV,2014,Côte d'Ivoire,MCV1,59,827757,Western Africa,3,51.1,51.14
+CIV,2015,Côte d'Ivoire,DTPCV1,96,860867,Western Africa,4,52.9,52.89
+CIV,2015,Côte d'Ivoire,DTPCV3,79,860867,Western Africa,4,52.9,52.89
+CIV,2015,Côte d'Ivoire,MCV1,67,860867,Western Africa,4,52.9,52.89
+CIV,2016,Côte d'Ivoire,DTPCV1,98,895302,Western Africa,5,53.3,53.34
+CIV,2016,Côte d'Ivoire,DTPCV3,87,895302,Western Africa,5,53.3,53.34
+CIV,2016,Côte d'Ivoire,MCV1,73,895302,Western Africa,5,53.3,53.34
+CIV,2017,Côte d'Ivoire,DTPCV1,93,931114,Western Africa,6,53.8,53.76
+CIV,2017,Côte d'Ivoire,DTPCV3,83,931114,Western Africa,6,53.8,53.76
+CIV,2017,Côte d'Ivoire,MCV1,70,931114,Western Africa,6,53.8,53.76
+CIV,2018,Côte d'Ivoire,DTPCV1,95,968359,Western Africa,7,54.6,54.56
+CIV,2018,Côte d'Ivoire,DTPCV3,84,968359,Western Africa,7,54.6,54.56
+CIV,2018,Côte d'Ivoire,MCV1,75,968359,Western Africa,7,54.6,54.56
+CIV,2019,Côte d'Ivoire,DTPCV1,92,1007093,Western Africa,8,55.3,55.21
+CIV,2019,Côte d'Ivoire,DTPCV3,81,1007093,Western Africa,8,55.3,55.21
+CIV,2019,Côte d'Ivoire,MCV1,73,1007093,Western Africa,8,55.3,55.21
+CIV,2020,Côte d'Ivoire,DTPCV1,84,1044481,Western Africa,9,53.9,53.77
+CIV,2020,Côte d'Ivoire,DTPCV3,75,1044481,Western Africa,9,53.9,53.77
+CIV,2020,Côte d'Ivoire,MCV1,66,1044481,Western Africa,9,53.9,53.77
+CIV,2021,Côte d'Ivoire,DTPCV1,85,1063668,Western Africa,10,54.3,54.18
+CIV,2021,Côte d'Ivoire,DTPCV3,76,1063668,Western Africa,10,54.3,54.18
+CIV,2021,Côte d'Ivoire,MCV1,68,1063668,Western Africa,10,54.3,54.18
+CMR,2012,Cameroon,DTPCV1,94,774699,Middle Africa,1,43.9,43.71
+CMR,2012,Cameroon,DTPCV3,85,774699,Middle Africa,1,43.9,43.71
+CMR,2012,Cameroon,MCV1,82,774699,Middle Africa,1,43.9,43.71
+CMR,2013,Cameroon,DTPCV1,95,794068,Middle Africa,2,44,43.74
+CMR,2013,Cameroon,DTPCV3,89,794068,Middle Africa,2,44,43.74
+CMR,2013,Cameroon,MCV1,83,794068,Middle Africa,2,44,43.74
+CMR,2014,Cameroon,DTPCV1,90,813922,Middle Africa,3,44.1,43.86
+CMR,2014,Cameroon,DTPCV3,83,813922,Middle Africa,3,44.1,43.86
+CMR,2014,Cameroon,MCV1,78,813922,Middle Africa,3,44.1,43.86
+CMR,2015,Cameroon,DTPCV1,86,832869,Middle Africa,4,44.3,44.09
+CMR,2015,Cameroon,DTPCV3,78,832869,Middle Africa,4,44.3,44.09
+CMR,2015,Cameroon,MCV1,74,832869,Middle Africa,4,44.3,44.09
+CMR,2016,Cameroon,DTPCV1,83,853690,Middle Africa,5,43.9,43.57
+CMR,2016,Cameroon,DTPCV3,75,853690,Middle Africa,5,43.9,43.57
+CMR,2016,Cameroon,MCV1,71,853690,Middle Africa,5,43.9,43.57
+CMR,2017,Cameroon,DTPCV1,83,840654,Middle Africa,6,42.8,42.39
+CMR,2017,Cameroon,DTPCV3,74,840654,Middle Africa,6,42.8,42.39
+CMR,2017,Cameroon,MCV1,65,840654,Middle Africa,6,42.8,42.39
+CMR,2018,Cameroon,DTPCV1,76,861979,Middle Africa,7,42.2,41.74
+CMR,2018,Cameroon,DTPCV3,67,861979,Middle Africa,7,42.2,41.74
+CMR,2018,Cameroon,MCV1,59,861979,Middle Africa,7,42.2,41.74
+CMR,2019,Cameroon,DTPCV1,75,884076,Middle Africa,8,42.6,42.11
+CMR,2019,Cameroon,DTPCV3,67,884076,Middle Africa,8,42.6,42.11
+CMR,2019,Cameroon,MCV1,60,884076,Middle Africa,8,42.6,42.11
+CMR,2020,Cameroon,DTPCV1,77,888066,Middle Africa,9,42.3,41.77
+CMR,2020,Cameroon,DTPCV3,69,888066,Middle Africa,9,42.3,41.77
+CMR,2020,Cameroon,MCV1,62,888066,Middle Africa,9,42.3,41.77
+CMR,2021,Cameroon,DTPCV1,76,941701,Middle Africa,10,43.2,42.69
+CMR,2021,Cameroon,DTPCV3,69,941701,Middle Africa,10,43.2,42.69
+CMR,2021,Cameroon,MCV1,62,941701,Middle Africa,10,43.2,42.69
+COD,2012,Democratic Republic of the Congo,DTPCV1,78,2727687,Middle Africa,1,33.4,33.07
+COD,2012,Democratic Republic of the Congo,DTPCV3,71,2727687,Middle Africa,1,33.4,33.07
+COD,2012,Democratic Republic of the Congo,MCV1,69,2727687,Middle Africa,1,33.4,33.07
+COD,2013,Democratic Republic of the Congo,DTPCV1,78,3017220,Middle Africa,2,34,33.66
+COD,2013,Democratic Republic of the Congo,DTPCV3,71,3017220,Middle Africa,2,34,33.66
+COD,2013,Democratic Republic of the Congo,MCV1,68,3017220,Middle Africa,2,34,33.66
+COD,2014,Democratic Republic of the Congo,DTPCV1,81,3107745,Middle Africa,3,34.4,33.99
+COD,2014,Democratic Republic of the Congo,DTPCV3,73,3107745,Middle Africa,3,34.4,33.99
+COD,2014,Democratic Republic of the Congo,MCV1,69,3107745,Middle Africa,3,34.4,33.99
+COD,2015,Democratic Republic of the Congo,DTPCV1,81,3201214,Middle Africa,4,35,34.64
+COD,2015,Democratic Republic of the Congo,DTPCV3,70,3201214,Middle Africa,4,35,34.64
+COD,2015,Democratic Republic of the Congo,MCV1,65,3201214,Middle Africa,4,35,34.64
+COD,2016,Democratic Republic of the Congo,DTPCV1,81,3428946,Middle Africa,5,33.4,32.97
+COD,2016,Democratic Republic of the Congo,DTPCV3,70,3428946,Middle Africa,5,33.4,32.97
+COD,2016,Democratic Republic of the Congo,MCV1,63,3428946,Middle Africa,5,33.4,32.97
+COD,2017,Democratic Republic of the Congo,DTPCV1,82,3531819,Middle Africa,6,32.4,31.9
+COD,2017,Democratic Republic of the Congo,DTPCV3,71,3531819,Middle Africa,6,32.4,31.9
+COD,2017,Democratic Republic of the Congo,MCV1,65,3531819,Middle Africa,6,32.4,31.9
+COD,2018,Democratic Republic of the Congo,DTPCV1,82,3626556,Middle Africa,7,31.6,31.05
+COD,2018,Democratic Republic of the Congo,DTPCV3,71,3626556,Middle Africa,7,31.6,31.05
+COD,2018,Democratic Republic of the Congo,MCV1,64,3626556,Middle Africa,7,31.6,31.05
+COD,2019,Democratic Republic of the Congo,DTPCV1,84,3751091,Middle Africa,8,32,31.34
+COD,2019,Democratic Republic of the Congo,DTPCV3,73,3751091,Middle Africa,8,32,31.34
+COD,2019,Democratic Republic of the Congo,MCV1,65,3751091,Middle Africa,8,32,31.34
+COD,2020,Democratic Republic of the Congo,DTPCV1,83,3921467,Middle Africa,9,32,31.18
+COD,2020,Democratic Republic of the Congo,DTPCV3,70,3921467,Middle Africa,9,32,31.18
+COD,2020,Democratic Republic of the Congo,MCV1,62,3921467,Middle Africa,9,32,31.18
+COD,2021,Democratic Republic of the Congo,DTPCV1,81,4081418,Middle Africa,10,32.7,31.88
+COD,2021,Democratic Republic of the Congo,DTPCV3,65,4081418,Middle Africa,10,32.7,31.88
+COD,2021,Democratic Republic of the Congo,MCV1,55,4081418,Middle Africa,10,32.7,31.88
+COG,2012,Congo,DTPCV1,90,168718,Middle Africa,1,36.9,36.07
+COG,2012,Congo,DTPCV3,85,168718,Middle Africa,1,36.9,36.07
+COG,2012,Congo,MCV1,80,168718,Middle Africa,1,36.9,36.07
+COG,2013,Congo,DTPCV1,90,176332.0751,Middle Africa,2,37.5,36.59
+COG,2013,Congo,DTPCV3,85,176332.0751,Middle Africa,2,37.5,36.59
+COG,2013,Congo,MCV1,80,176332.0751,Middle Africa,2,37.5,36.59
+COG,2014,Congo,DTPCV1,95,181622,Middle Africa,3,37.1,36.2
+COG,2014,Congo,DTPCV3,90,181622,Middle Africa,3,37.1,36.2
+COG,2014,Congo,MCV1,80,181622,Middle Africa,3,37.1,36.2
+COG,2015,Congo,DTPCV1,85,187071,Middle Africa,4,37.2,36.37
+COG,2015,Congo,DTPCV3,80,187071,Middle Africa,4,37.2,36.37
+COG,2015,Congo,MCV1,80,187071,Middle Africa,4,37.2,36.37
+COG,2016,Congo,DTPCV1,76,206041,Middle Africa,5,35.9,35.1
+COG,2016,Congo,DTPCV3,71,206041,Middle Africa,5,35.9,35.1
+COG,2016,Congo,MCV1,67,206041,Middle Africa,5,35.9,35.1
+COG,2017,Congo,DTPCV1,75,212222,Middle Africa,6,36,35.17
+COG,2017,Congo,DTPCV3,69,212222,Middle Africa,6,36,35.17
+COG,2017,Congo,MCV1,70,212222,Middle Africa,6,36,35.17
+COG,2018,Congo,DTPCV1,79,218586,Middle Africa,7,35.3,34.42
+COG,2018,Congo,DTPCV3,75,218586,Middle Africa,7,35.3,34.42
+COG,2018,Congo,MCV1,75,218586,Middle Africa,7,35.3,34.42
+COG,2019,Congo,DTPCV1,82,225832,Middle Africa,8,34.9,34.15
+COG,2019,Congo,DTPCV3,79,225832,Middle Africa,8,34.9,34.15
+COG,2019,Congo,MCV1,73,225832,Middle Africa,8,34.9,34.15
+COG,2020,Congo,DTPCV1,77,232067,Middle Africa,9,35.2,34.41
+COG,2020,Congo,DTPCV3,73,232067,Middle Africa,9,35.2,34.41
+COG,2020,Congo,MCV1,68,232067,Middle Africa,9,35.2,34.41
+COG,2021,Congo,DTPCV1,81,239587,Middle Africa,10,35.1,34.21
+COG,2021,Congo,DTPCV3,77,239587,Middle Africa,10,35.1,34.21
+COG,2021,Congo,MCV1,68,239587,Middle Africa,10,35.1,34.21
+COM,2012,Comoros,DTPCV1,91,19861,Eastern Africa,1,47.4,47.41
+COM,2012,Comoros,DTPCV3,86,19861,Eastern Africa,1,47.4,47.41
+COM,2012,Comoros,MCV1,85,19861,Eastern Africa,1,47.4,47.41
+COM,2013,Comoros,DTPCV1,90,20397,Eastern Africa,2,47.6,47.58
+COM,2013,Comoros,DTPCV3,87,20397,Eastern Africa,2,47.6,47.58
+COM,2013,Comoros,MCV1,85,20397,Eastern Africa,2,47.6,47.58
+COM,2014,Comoros,DTPCV1,93,20949,Eastern Africa,3,47.5,47.46
+COM,2014,Comoros,DTPCV3,87,20949,Eastern Africa,3,47.5,47.46
+COM,2014,Comoros,MCV1,86,20949,Eastern Africa,3,47.5,47.46
+COM,2015,Comoros,DTPCV1,96,21520,Eastern Africa,4,46.4,46.37
+COM,2015,Comoros,DTPCV3,91,21520,Eastern Africa,4,46.4,46.37
+COM,2015,Comoros,MCV1,90,21520,Eastern Africa,4,46.4,46.37
+COM,2016,Comoros,DTPCV1,96,22107,Eastern Africa,5,46.4,46.28
+COM,2016,Comoros,DTPCV3,91,22107,Eastern Africa,5,46.4,46.28
+COM,2016,Comoros,MCV1,90,22107,Eastern Africa,5,46.4,46.28
+COM,2017,Comoros,DTPCV1,96,22708,Eastern Africa,6,45.5,45.3
+COM,2017,Comoros,DTPCV3,91,22708,Eastern Africa,6,45.5,45.3
+COM,2017,Comoros,MCV1,90,22708,Eastern Africa,6,45.5,45.3
+COM,2018,Comoros,DTPCV1,96,23328,Eastern Africa,7,44.9,44.66
+COM,2018,Comoros,DTPCV3,91,23328,Eastern Africa,7,44.9,44.66
+COM,2018,Comoros,MCV1,90,23328,Eastern Africa,7,44.9,44.66
+COM,2019,Comoros,DTPCV1,96,23957,Eastern Africa,8,43.7,43.18
+COM,2019,Comoros,DTPCV3,91,23957,Eastern Africa,8,43.7,43.18
+COM,2019,Comoros,MCV1,90,23957,Eastern Africa,8,43.7,43.18
+COM,2020,Comoros,DTPCV1,96,24602,Eastern Africa,9,43.1,42.42
+COM,2020,Comoros,DTPCV3,91,24602,Eastern Africa,9,43.1,42.42
+COM,2020,Comoros,MCV1,90,24602,Eastern Africa,9,43.1,42.42
+COM,2021,Comoros,DTPCV1,96,23197,Eastern Africa,10,42.5,41.77
+COM,2021,Comoros,DTPCV3,91,23197,Eastern Africa,10,42.5,41.77
+COM,2021,Comoros,MCV1,90,23197,Eastern Africa,10,42.5,41.77
+CPV,2012,Cabo Verde,DTPCV1,98,11234,Western Africa,1,71.9,71.71
+CPV,2012,Cabo Verde,DTPCV3,94,11234,Western Africa,1,71.9,71.71
+CPV,2012,Cabo Verde,MCV1,91,11234,Western Africa,1,71.9,71.71
+CPV,2013,Cabo Verde,DTPCV1,93,10349,Western Africa,2,72,71.77
+CPV,2013,Cabo Verde,DTPCV3,93,10349,Western Africa,2,72,71.77
+CPV,2013,Cabo Verde,MCV1,91,10349,Western Africa,2,72,71.77
+CPV,2014,Cabo Verde,DTPCV1,99,9449,Western Africa,3,71,70.7
+CPV,2014,Cabo Verde,DTPCV3,95,9449,Western Africa,3,71,70.7
+CPV,2014,Cabo Verde,MCV1,93,9449,Western Africa,3,71,70.7
+CPV,2015,Cabo Verde,DTPCV1,97,10502,Western Africa,4,71.8,71.58
+CPV,2015,Cabo Verde,DTPCV3,93,10502,Western Africa,4,71.8,71.58
+CPV,2015,Cabo Verde,MCV1,92,10502,Western Africa,4,71.8,71.58
+CPV,2016,Cabo Verde,DTPCV1,96,10531,Western Africa,5,71.7,71.48
+CPV,2016,Cabo Verde,DTPCV3,96,10531,Western Africa,5,71.7,71.48
+CPV,2016,Cabo Verde,MCV1,93,10531,Western Africa,5,71.7,71.48
+CPV,2017,Cabo Verde,DTPCV1,97,10525,Western Africa,6,72.2,72.01
+CPV,2017,Cabo Verde,DTPCV3,96,10525,Western Africa,6,72.2,72.01
+CPV,2017,Cabo Verde,MCV1,96,10525,Western Africa,6,72.2,72.01
+CPV,2018,Cabo Verde,DTPCV1,99,10498,Western Africa,7,72.4,72.24
+CPV,2018,Cabo Verde,DTPCV3,98,10498,Western Africa,7,72.4,72.24
+CPV,2018,Cabo Verde,MCV1,99,10496,Western Africa,7,72.4,72.24
+CPV,2019,Cabo Verde,DTPCV1,96,10498,Western Africa,8,71.9,71.75
+CPV,2019,Cabo Verde,DTPCV3,96,10498,Western Africa,8,71.9,71.75
+CPV,2019,Cabo Verde,MCV1,98,10496,Western Africa,8,71.9,71.75
+CPV,2020,Cabo Verde,DTPCV1,93,10379,Western Africa,9,71.9,71.7
+CPV,2020,Cabo Verde,DTPCV3,93,10379,Western Africa,9,71.9,71.7
+CPV,2020,Cabo Verde,MCV1,95,10379,Western Africa,9,71.9,71.7
+CPV,2021,Cabo Verde,DTPCV1,93,8201,Western Africa,10,70.7,70.42
+CPV,2021,Cabo Verde,DTPCV3,93,8201,Western Africa,10,70.7,70.42
+CPV,2021,Cabo Verde,MCV1,95,8201,Western Africa,10,70.7,70.42
+DJI,2012,Djibouti,DTPCV1,85,25915,Eastern Africa,1,38.9,37.91
+DJI,2012,Djibouti,DTPCV3,81,25915,Eastern Africa,1,38.9,37.91
+DJI,2012,Djibouti,MCV1,83,25915,Eastern Africa,1,38.9,37.91
+DJI,2013,Djibouti,DTPCV1,87,26692,Eastern Africa,2,38.9,37.95
+DJI,2013,Djibouti,DTPCV3,82,26692,Eastern Africa,2,38.9,37.95
+DJI,2013,Djibouti,MCV1,80,26692,Eastern Africa,2,38.9,37.95
+DJI,2014,Djibouti,DTPCV1,93,27493,Eastern Africa,3,39,38.03
+DJI,2014,Djibouti,DTPCV3,78,27493,Eastern Africa,3,39,38.03
+DJI,2014,Djibouti,MCV1,71,27493,Eastern Africa,3,39,38.03
+DJI,2015,Djibouti,DTPCV1,90,28318,Eastern Africa,4,39.5,38.57
+DJI,2015,Djibouti,DTPCV3,84,28318,Eastern Africa,4,39.5,38.57
+DJI,2015,Djibouti,MCV1,74,28318,Eastern Africa,4,39.5,38.57
+DJI,2016,Djibouti,DTPCV1,74,28052,Eastern Africa,5,39.7,38.79
+DJI,2016,Djibouti,DTPCV3,68,28052,Eastern Africa,5,39.7,38.79
+DJI,2016,Djibouti,MCV1,75,28052,Eastern Africa,5,39.7,38.79
+DJI,2017,Djibouti,DTPCV1,83,23069.90034,Eastern Africa,6,39.7,38.74
+DJI,2017,Djibouti,DTPCV3,76,23069.90034,Eastern Africa,6,39.7,38.74
+DJI,2017,Djibouti,MCV1,81,23069.90034,Eastern Africa,6,39.7,38.74
+DJI,2018,Djibouti,DTPCV1,91,23716,Eastern Africa,7,40.7,39.78
+DJI,2018,Djibouti,DTPCV3,84,23716,Eastern Africa,7,40.7,39.78
+DJI,2018,Djibouti,MCV1,86,23716,Eastern Africa,7,40.7,39.78
+DJI,2019,Djibouti,DTPCV1,90,25867,Eastern Africa,8,41.8,40.97
+DJI,2019,Djibouti,DTPCV3,85,25867,Eastern Africa,8,41.8,40.97
+DJI,2019,Djibouti,MCV1,83,25867,Eastern Africa,8,41.8,40.97
+DJI,2020,Djibouti,DTPCV1,76,19991,Eastern Africa,9,41.9,41.14
+DJI,2020,Djibouti,DTPCV3,70,19991,Eastern Africa,9,41.9,41.14
+DJI,2020,Djibouti,MCV1,62,19991,Eastern Africa,9,41.9,41.14
+DJI,2021,Djibouti,DTPCV1,70,22780,Eastern Africa,10,42.2,41.38
+DJI,2021,Djibouti,DTPCV3,59,22780,Eastern Africa,10,42.2,41.38
+DJI,2021,Djibouti,MCV1,50,22780,Eastern Africa,10,42.2,41.38
+DZA,2012,Algeria,DTPCV1,99,836069,Northern Africa,1,53.5,52.61
+DZA,2012,Algeria,DTPCV3,95,836069,Northern Africa,1,53.5,52.61
+DZA,2012,Algeria,MCV1,95,836069,Northern Africa,1,53.5,52.61
+DZA,2013,Algeria,DTPCV1,99,856971,Northern Africa,2,53.8,52.84
+DZA,2013,Algeria,DTPCV3,95,856971,Northern Africa,2,53.8,52.84
+DZA,2013,Algeria,MCV1,95,856971,Northern Africa,2,53.8,52.84
+DZA,2014,Algeria,DTPCV1,99,987760,Northern Africa,3,53.8,52.82
+DZA,2014,Algeria,DTPCV3,95,987760,Northern Africa,3,53.8,52.82
+DZA,2014,Algeria,MCV1,95,987760,Northern Africa,3,53.8,52.82
+DZA,2015,Algeria,DTPCV1,99,1017367,Northern Africa,4,55.6,54.78
+DZA,2015,Algeria,DTPCV3,95,1017367,Northern Africa,4,55.6,54.78
+DZA,2015,Algeria,MCV1,95,1017367,Northern Africa,4,55.6,54.78
+DZA,2016,Algeria,DTPCV1,96,1022171,Northern Africa,5,55.9,54.97
+DZA,2016,Algeria,DTPCV3,91,1022171,Northern Africa,5,55.9,54.97
+DZA,2016,Algeria,MCV1,94,1022171,Northern Africa,5,55.9,54.97
+DZA,2017,Algeria,DTPCV1,95,1047907,Northern Africa,6,54.9,53.86
+DZA,2017,Algeria,DTPCV3,91,1047907,Northern Africa,6,54.9,53.86
+DZA,2017,Algeria,MCV1,88,1047907,Northern Africa,6,54.9,53.86
+DZA,2018,Algeria,DTPCV1,96,1090227,Northern Africa,7,55.7,54.79
+DZA,2018,Algeria,DTPCV3,91,1090227,Northern Africa,7,55.7,54.79
+DZA,2018,Algeria,MCV1,80,1090227,Northern Africa,7,55.7,54.79
+DZA,2019,Algeria,DTPCV1,95,1134256.104,Northern Africa,8,56,55.01
+DZA,2019,Algeria,DTPCV3,88,1134256.104,Northern Africa,8,56,55.01
+DZA,2019,Algeria,MCV1,80,1134256.104,Northern Africa,8,56,55.01
+DZA,2020,Algeria,DTPCV1,94,1180063.336,Northern Africa,9,56,55.08
+DZA,2020,Algeria,DTPCV3,84,1180063.336,Northern Africa,9,56,55.08
+DZA,2020,Algeria,MCV1,80,1180063.336,Northern Africa,9,56,55.08
+DZA,2021,Algeria,DTPCV1,92,1227720.504,Northern Africa,10,55.6,54.72
+DZA,2021,Algeria,DTPCV3,81,1227720.504,Northern Africa,10,55.6,54.72
+DZA,2021,Algeria,MCV1,79,1227720.504,Northern Africa,10,55.6,54.72
+EGY,2012,Egypt,DTPCV1,94,2477928,Northern Africa,1,49.9,49.23
+EGY,2012,Egypt,DTPCV3,93,2392966,Northern Africa,1,49.9,49.23
+EGY,2012,Egypt,MCV1,93,2273515,Northern Africa,1,49.9,49.23
+EGY,2013,Egypt,DTPCV1,97,2207049,Northern Africa,2,47.9,47.01
+EGY,2013,Egypt,DTPCV3,97,2191256,Northern Africa,2,47.9,47.01
+EGY,2013,Egypt,MCV1,96,2234332,Northern Africa,2,47.9,47.01
+EGY,2014,Egypt,DTPCV1,96,2710438,Northern Africa,3,47.3,46.39
+EGY,2014,Egypt,DTPCV3,94,2674005,Northern Africa,3,47.3,46.39
+EGY,2014,Egypt,MCV1,93,2602329,Northern Africa,3,47.3,46.39
+EGY,2015,Egypt,DTPCV1,94,2657647,Northern Africa,4,47.9,47.15
+EGY,2015,Egypt,DTPCV3,93,2680256,Northern Africa,4,47.9,47.15
+EGY,2015,Egypt,MCV1,92,2683157,Northern Africa,4,47.9,47.15
+EGY,2016,Egypt,DTPCV1,96,2594923,Northern Africa,5,49.2,48.46
+EGY,2016,Egypt,DTPCV3,95,2629602,Northern Africa,5,49.2,48.46
+EGY,2016,Egypt,MCV1,95,2652483,Northern Africa,5,49.2,48.46
+EGY,2017,Egypt,DTPCV1,95,2535116,Northern Africa,6,49.8,49.05
+EGY,2017,Egypt,DTPCV3,94,2522945,Northern Africa,6,49.8,49.05
+EGY,2017,Egypt,MCV1,94,2545172,Northern Africa,6,49.8,49.05
+EGY,2018,Egypt,DTPCV1,96,2417305,Northern Africa,7,49.6,48.85
+EGY,2018,Egypt,DTPCV3,95,2470443,Northern Africa,7,49.6,48.85
+EGY,2018,Egypt,MCV1,94,2534617,Northern Africa,7,49.6,48.85
+EGY,2019,Egypt,DTPCV1,96,2294657,Northern Africa,8,48,47.12
+EGY,2019,Egypt,DTPCV3,95,2324276,Northern Africa,8,48,47.12
+EGY,2019,Egypt,MCV1,95,2378311,Northern Africa,8,48,47.12
+EGY,2020,Egypt,DTPCV1,95,2249482,Northern Africa,9,47.9,46.95
+EGY,2020,Egypt,DTPCV3,94,2262515,Northern Africa,9,47.9,46.95
+EGY,2020,Egypt,MCV1,94,2282209,Northern Africa,9,47.9,46.95
+EGY,2021,Egypt,DTPCV1,97,2160456,Northern Africa,10,48.4,47.48
+EGY,2021,Egypt,DTPCV3,96,2156772,Northern Africa,10,48.4,47.48
+EGY,2021,Egypt,MCV1,96,2224366,Northern Africa,10,48.4,47.48
+ERI,2012,Eritrea,DTPCV1,97,106453,Eastern Africa,1,24,22.66
+ERI,2012,Eritrea,DTPCV3,94,106453,Eastern Africa,1,24,22.66
+ERI,2012,Eritrea,MCV1,98,106453,Eastern Africa,1,24,22.66
+ERI,2013,Eritrea,DTPCV1,97,109327,Eastern Africa,2,24.9,23.59
+ERI,2013,Eritrea,DTPCV3,94,109327,Eastern Africa,2,24.9,23.59
+ERI,2013,Eritrea,MCV1,94,109327,Eastern Africa,2,24.9,23.59
+ERI,2014,Eritrea,DTPCV1,97,112279,Eastern Africa,3,24.9,23.68
+ERI,2014,Eritrea,DTPCV3,94,112279,Eastern Africa,3,24.9,23.68
+ERI,2014,Eritrea,MCV1,90,112279,Eastern Africa,3,24.9,23.68
+ERI,2015,Eritrea,DTPCV1,98,115829,Eastern Africa,4,25,23.62
+ERI,2015,Eritrea,DTPCV3,95,115829,Eastern Africa,4,25,23.62
+ERI,2015,Eritrea,MCV1,97,115829,Eastern Africa,4,25,23.62
+ERI,2016,Eritrea,DTPCV1,97,103467,Eastern Africa,5,24.8,23.48
+ERI,2016,Eritrea,DTPCV3,95,103467,Eastern Africa,5,24.8,23.48
+ERI,2016,Eritrea,MCV1,95,103467,Eastern Africa,5,24.8,23.48
+ERI,2017,Eritrea,DTPCV1,97,106363.6539,Eastern Africa,6,25.2,23.78
+ERI,2017,Eritrea,DTPCV3,95,106363.6539,Eastern Africa,6,25.2,23.78
+ERI,2017,Eritrea,MCV1,93,106363.6539,Eastern Africa,6,25.2,23.78
+ERI,2018,Eritrea,DTPCV1,97,109342,Eastern Africa,7,24.2,22.88
+ERI,2018,Eritrea,DTPCV3,95,109342,Eastern Africa,7,24.2,22.88
+ERI,2018,Eritrea,MCV1,93,109342,Eastern Africa,7,24.2,22.88
+ERI,2019,Eritrea,DTPCV1,97,97411.99104,Eastern Africa,8,24.9,23.44
+ERI,2019,Eritrea,DTPCV3,95,97411.99104,Eastern Africa,8,24.9,23.44
+ERI,2019,Eritrea,MCV1,93,97411.99104,Eastern Africa,8,24.9,23.44
+ERI,2020,Eritrea,DTPCV1,97,99876,Eastern Africa,9,25.7,24.17
+ERI,2020,Eritrea,DTPCV3,95,99876,Eastern Africa,9,25.7,24.17
+ERI,2020,Eritrea,MCV1,93,99876,Eastern Africa,9,25.7,24.17
+ERI,2021,Eritrea,DTPCV1,97,102673,Eastern Africa,10,25.9,24.52
+ERI,2021,Eritrea,DTPCV3,95,102673,Eastern Africa,10,25.9,24.52
+ERI,2021,Eritrea,MCV1,93,102673,Eastern Africa,10,25.9,24.52
+ETH,2012,Ethiopia,DTPCV1,74,2866283.504,Eastern Africa,1,40.9,40.38
+ETH,2012,Ethiopia,DTPCV3,62,2866283.504,Eastern Africa,1,40.9,40.38
+ETH,2012,Ethiopia,MCV1,62,2866283.504,Eastern Africa,1,40.9,40.38
+ETH,2013,Ethiopia,DTPCV1,67,2742695,Eastern Africa,2,41.4,40.9
+ETH,2013,Ethiopia,DTPCV3,59,2742695,Eastern Africa,2,41.4,40.9
+ETH,2013,Ethiopia,MCV1,55,2742695,Eastern Africa,2,41.4,40.9
+ETH,2014,Ethiopia,DTPCV1,73,2834972,Eastern Africa,3,42.8,42.31
+ETH,2014,Ethiopia,DTPCV3,61,2834972,Eastern Africa,3,42.8,42.31
+ETH,2014,Ethiopia,MCV1,54,2834972,Eastern Africa,3,42.8,42.31
+ETH,2015,Ethiopia,DTPCV1,74,2885510.414,Eastern Africa,4,43.3,42.68
+ETH,2015,Ethiopia,DTPCV3,63,2885510.414,Eastern Africa,4,43.3,42.68
+ETH,2015,Ethiopia,MCV1,56,2885510.414,Eastern Africa,4,43.3,42.68
+ETH,2016,Ethiopia,DTPCV1,75,2951902,Eastern Africa,5,43.4,42.76
+ETH,2016,Ethiopia,DTPCV3,66,2951902,Eastern Africa,5,43.4,42.76
+ETH,2016,Ethiopia,MCV1,57,2951902,Eastern Africa,5,43.4,42.76
+ETH,2017,Ethiopia,DTPCV1,76,3016877.826,Eastern Africa,6,42.4,41.64
+ETH,2017,Ethiopia,DTPCV3,68,3016877.826,Eastern Africa,6,42.4,41.64
+ETH,2017,Ethiopia,MCV1,59,3016877.826,Eastern Africa,6,42.4,41.64
+ETH,2018,Ethiopia,DTPCV1,77,3023710,Eastern Africa,7,44.6,43.89
+ETH,2018,Ethiopia,DTPCV3,67,3023710,Eastern Africa,7,44.6,43.89
+ETH,2018,Ethiopia,MCV1,55,3023710,Eastern Africa,7,44.6,43.89
+ETH,2019,Ethiopia,DTPCV1,76,3149310,Eastern Africa,8,47.6,46.93
+ETH,2019,Ethiopia,DTPCV3,68,3149310,Eastern Africa,8,47.6,46.93
+ETH,2019,Ethiopia,MCV1,58,3149310,Eastern Africa,8,47.6,46.93
+ETH,2020,Ethiopia,DTPCV1,76,3176443,Eastern Africa,9,47.3,46.49
+ETH,2020,Ethiopia,DTPCV3,71,3176443,Eastern Africa,9,47.3,46.49
+ETH,2020,Ethiopia,MCV1,60,3176443,Eastern Africa,9,47.3,46.49
+ETH,2021,Ethiopia,DTPCV1,70,3250139,Eastern Africa,10,46,45.28
+ETH,2021,Ethiopia,DTPCV3,65,3250139,Eastern Africa,10,46,45.28
+ETH,2021,Ethiopia,MCV1,54,3250139,Eastern Africa,10,46,45.28
+GAB,2012,Gabon,DTPCV1,86,64467,Middle Africa,1,46.3,46.03
+GAB,2012,Gabon,DTPCV3,82,64467,Middle Africa,1,46.3,46.03
+GAB,2012,Gabon,MCV1,71,64467,Middle Africa,1,46.3,46.03
+GAB,2013,Gabon,DTPCV1,80,66078,Middle Africa,2,47.3,47.11
+GAB,2013,Gabon,DTPCV3,79,66078,Middle Africa,2,47.3,47.11
+GAB,2013,Gabon,MCV1,70,66078,Middle Africa,2,47.3,47.11
+GAB,2014,Gabon,DTPCV1,77,67730,Middle Africa,3,47.4,47.14
+GAB,2014,Gabon,DTPCV3,70,67730,Middle Africa,3,47.4,47.14
+GAB,2014,Gabon,MCV1,61,67730,Middle Africa,3,47.4,47.14
+GAB,2015,Gabon,DTPCV1,87,62800,Middle Africa,4,47.6,47.22
+GAB,2015,Gabon,DTPCV3,80,62800,Middle Africa,4,47.6,47.22
+GAB,2015,Gabon,MCV1,68,62800,Middle Africa,4,47.6,47.22
+GAB,2016,Gabon,DTPCV1,83,64704,Middle Africa,5,47.1,46.69
+GAB,2016,Gabon,DTPCV3,75,64704,Middle Africa,5,47.1,46.69
+GAB,2016,Gabon,MCV1,64,64704,Middle Africa,5,47.1,46.69
+GAB,2017,Gabon,DTPCV1,81,66618,Middle Africa,6,46.6,46.09
+GAB,2017,Gabon,DTPCV3,75,66618,Middle Africa,6,46.6,46.09
+GAB,2017,Gabon,MCV1,63,66618,Middle Africa,6,46.6,46.09
+GAB,2018,Gabon,DTPCV1,78,68592,Middle Africa,7,47.9,47.51
+GAB,2018,Gabon,DTPCV3,70,68592,Middle Africa,7,47.9,47.51
+GAB,2018,Gabon,MCV1,59,68592,Middle Africa,7,47.9,47.51
+GAB,2019,Gabon,DTPCV1,77,70629,Middle Africa,8,47.1,46.83
+GAB,2019,Gabon,DTPCV3,70,70629,Middle Africa,8,47.1,46.83
+GAB,2019,Gabon,MCV1,62,70629,Middle Africa,8,47.1,46.83
+GAB,2020,Gabon,DTPCV1,69,72732,Middle Africa,9,47.9,47.49
+GAB,2020,Gabon,DTPCV3,63,72732,Middle Africa,9,47.9,47.49
+GAB,2020,Gabon,MCV1,53,72732,Middle Africa,9,47.9,47.49
+GAB,2021,Gabon,DTPCV1,76,74902,Middle Africa,10,48.4,48.04
+GAB,2021,Gabon,DTPCV3,75,74902,Middle Africa,10,48.4,48.04
+GAB,2021,Gabon,MCV1,64,74902,Middle Africa,10,48.4,48.04
+GHA,2012,Ghana,DTPCV1,92,985422,Western Africa,1,63.7,64.01
+GHA,2012,Ghana,DTPCV3,92,985422,Western Africa,1,63.7,64.01
+GHA,2012,Ghana,MCV1,88,985422,Western Africa,1,63.7,64.01
+GHA,2013,Ghana,DTPCV1,94,1010579,Western Africa,2,64,64.29
+GHA,2013,Ghana,DTPCV3,90,1010579,Western Africa,2,64,64.29
+GHA,2013,Ghana,MCV1,89,1010579,Western Africa,2,64,64.29
+GHA,2014,Ghana,DTPCV1,99,1037326,Western Africa,3,63.7,64.02
+GHA,2014,Ghana,DTPCV3,98,1037326,Western Africa,3,63.7,64.02
+GHA,2014,Ghana,MCV1,92,1037326,Western Africa,3,63.7,64.02
+GHA,2015,Ghana,DTPCV1,97,1062934,Western Africa,4,63.8,64.04
+GHA,2015,Ghana,DTPCV3,88,1062934,Western Africa,4,63.8,64.04
+GHA,2015,Ghana,MCV1,89,1062934,Western Africa,4,63.8,64.04
+GHA,2016,Ghana,DTPCV1,94,1075607,Western Africa,5,64.1,64.33
+GHA,2016,Ghana,DTPCV3,93,1075607,Western Africa,5,64.1,64.33
+GHA,2016,Ghana,MCV1,89,1075607,Western Africa,5,64.1,64.33
+GHA,2017,Ghana,DTPCV1,99,1100226.464,Western Africa,6,64.6,64.84
+GHA,2017,Ghana,DTPCV3,99,1100226.464,Western Africa,6,64.6,64.84
+GHA,2017,Ghana,MCV1,95,1100226,Western Africa,6,64.6,64.84
+GHA,2018,Ghana,DTPCV1,97,1154946.195,Western Africa,7,63.8,63.91
+GHA,2018,Ghana,DTPCV3,97,1154946.195,Western Africa,7,63.8,63.91
+GHA,2018,Ghana,MCV1,92,1154946.195,Western Africa,7,63.8,63.91
+GHA,2019,Ghana,DTPCV1,97,1181170.692,Western Africa,8,64.3,64.37
+GHA,2019,Ghana,DTPCV3,97,1181170.692,Western Africa,8,64.3,64.37
+GHA,2019,Ghana,MCV1,92,1181170.692,Western Africa,8,64.3,64.37
+GHA,2020,Ghana,DTPCV1,94,1208317,Western Africa,9,64.5,64.57
+GHA,2020,Ghana,DTPCV3,94,1208317,Western Africa,9,64.5,64.57
+GHA,2020,Ghana,MCV1,88,1208317,Western Africa,9,64.5,64.57
+GHA,2021,Ghana,DTPCV1,99,1202449,Western Africa,10,64.8,64.84
+GHA,2021,Ghana,DTPCV3,98,1202449,Western Africa,10,64.8,64.84
+GHA,2021,Ghana,MCV1,94,1202449,Western Africa,10,64.8,64.84
+GIN,2012,Guinea,DTPCV1,70,412510,Western Africa,1,41.1,40.96
+GIN,2012,Guinea,DTPCV3,57,412510,Western Africa,1,41.1,40.96
+GIN,2012,Guinea,MCV1,58,412510,Western Africa,1,41.1,40.96
+GIN,2013,Guinea,DTPCV1,64,425298,Western Africa,2,41.1,40.84
+GIN,2013,Guinea,DTPCV3,50,425298,Western Africa,2,41.1,40.84
+GIN,2013,Guinea,MCV1,54,425298,Western Africa,2,41.1,40.84
+GIN,2014,Guinea,DTPCV1,58,438483,Western Africa,3,40.8,40.59
+GIN,2014,Guinea,DTPCV3,44,438483,Western Africa,3,40.8,40.59
+GIN,2014,Guinea,MCV1,50,438483,Western Africa,3,40.8,40.59
+GIN,2015,Guinea,DTPCV1,64,391061,Western Africa,4,41.3,41.01
+GIN,2015,Guinea,DTPCV3,47,391061,Western Africa,4,41.3,41.01
+GIN,2015,Guinea,MCV1,47,391061,Western Africa,4,41.3,41.01
+GIN,2016,Guinea,DTPCV1,62,399664,Western Africa,5,42.6,42.33
+GIN,2016,Guinea,DTPCV3,47,399664,Western Africa,5,42.6,42.33
+GIN,2016,Guinea,MCV1,47,399664,Western Africa,5,42.6,42.33
+GIN,2017,Guinea,DTPCV1,62,410855,Western Africa,6,42.7,42.56
+GIN,2017,Guinea,DTPCV3,47,410855,Western Africa,6,42.7,42.56
+GIN,2017,Guinea,MCV1,47,410855,Western Africa,6,42.7,42.56
+GIN,2018,Guinea,DTPCV1,62,435746,Western Africa,7,42.7,42.5
+GIN,2018,Guinea,DTPCV3,47,435746,Western Africa,7,42.7,42.5
+GIN,2018,Guinea,MCV1,47,435746,Western Africa,7,42.7,42.5
+GIN,2019,Guinea,DTPCV1,62,446410,Western Africa,8,42.1,41.91
+GIN,2019,Guinea,DTPCV3,47,446410,Western Africa,8,42.1,41.91
+GIN,2019,Guinea,MCV1,47,446410,Western Africa,8,42.1,41.91
+GIN,2020,Guinea,DTPCV1,62,452146,Western Africa,9,41,40.74
+GIN,2020,Guinea,DTPCV3,47,452146,Western Africa,9,41,40.74
+GIN,2020,Guinea,MCV1,47,452146,Western Africa,9,41,40.74
+GIN,2021,Guinea,DTPCV1,62,464666,Western Africa,10,41.2,40.92
+GIN,2021,Guinea,DTPCV3,47,464666,Western Africa,10,41.2,40.92
+GIN,2021,Guinea,MCV1,47,464666,Western Africa,10,41.2,40.92
+GMB,2012,Gambia,DTPCV1,99,73783,Western Africa,1,45.8,45.13
+GMB,2012,Gambia,DTPCV3,98,73783,Western Africa,1,45.8,45.13
+GMB,2012,Gambia,MCV1,95,73783,Western Africa,1,45.8,45.13
+GMB,2013,Gambia,DTPCV1,99,75775,Western Africa,2,45.5,44.85
+GMB,2013,Gambia,DTPCV3,97,75775,Western Africa,2,45.5,44.85
+GMB,2013,Gambia,MCV1,96,75775,Western Africa,2,45.5,44.85
+GMB,2014,Gambia,DTPCV1,98,77820,Western Africa,3,45.2,44.55
+GMB,2014,Gambia,DTPCV3,96,77820,Western Africa,3,45.2,44.55
+GMB,2014,Gambia,MCV1,96,77820,Western Africa,3,45.2,44.55
+GMB,2015,Gambia,DTPCV1,99,79922,Western Africa,4,44.9,44.22
+GMB,2015,Gambia,DTPCV3,97,79922,Western Africa,4,44.9,44.22
+GMB,2015,Gambia,MCV1,97,79922,Western Africa,4,44.9,44.22
+GMB,2016,Gambia,DTPCV1,99,80193,Western Africa,5,44.8,44.16
+GMB,2016,Gambia,DTPCV3,95,80193,Western Africa,5,44.8,44.16
+GMB,2016,Gambia,MCV1,97,80193,Western Africa,5,44.8,44.16
+GMB,2017,Gambia,DTPCV1,93,82127,Western Africa,6,52.8,52.55
+GMB,2017,Gambia,DTPCV3,92,82127,Western Africa,6,52.8,52.55
+GMB,2017,Gambia,MCV1,90,82127,Western Africa,6,52.8,52.55
+GMB,2018,Gambia,DTPCV1,94,82127,Western Africa,7,54.9,54.76
+GMB,2018,Gambia,DTPCV3,93,82127,Western Africa,7,54.9,54.76
+GMB,2018,Gambia,MCV1,91,82127,Western Africa,7,54.9,54.76
+GMB,2019,Gambia,DTPCV1,93,82127,Western Africa,8,54.6,54.46
+GMB,2019,Gambia,DTPCV3,88,82127,Western Africa,8,54.6,54.46
+GMB,2019,Gambia,MCV1,85,82127,Western Africa,8,54.6,54.46
+GMB,2020,Gambia,DTPCV1,88,83947,Western Africa,9,55.1,54.95
+GMB,2020,Gambia,DTPCV3,85,83947,Western Africa,9,55.1,54.95
+GMB,2020,Gambia,MCV1,82,83947,Western Africa,9,55.1,54.95
+GMB,2021,Gambia,DTPCV1,82,83947,Western Africa,10,55.3,55.18
+GMB,2021,Gambia,DTPCV3,82,83947,Western Africa,10,55.3,55.18
+GMB,2021,Gambia,MCV1,79,83947,Western Africa,10,55.3,55.18
+GNB,2012,Guinea-Bissau,DTPCV1,94,51209,Western Africa,1,38.5,38.42
+GNB,2012,Guinea-Bissau,DTPCV3,87,51209,Western Africa,1,38.5,38.42
+GNB,2012,Guinea-Bissau,MCV1,81,51209,Western Africa,1,38.5,38.42
+GNB,2013,Guinea-Bissau,DTPCV1,93,52494,Western Africa,2,39,38.89
+GNB,2013,Guinea-Bissau,DTPCV3,87,52494,Western Africa,2,39,38.89
+GNB,2013,Guinea-Bissau,MCV1,81,52494,Western Africa,2,39,38.89
+GNB,2014,Guinea-Bissau,DTPCV1,92,60180,Western Africa,3,39.6,39.41
+GNB,2014,Guinea-Bissau,DTPCV3,86,60180,Western Africa,3,39.6,39.41
+GNB,2014,Guinea-Bissau,MCV1,81,60180,Western Africa,3,39.6,39.41
+GNB,2015,Guinea-Bissau,DTPCV1,91,61696,Western Africa,4,41.9,41.94
+GNB,2015,Guinea-Bissau,DTPCV3,86,61696,Western Africa,4,41.9,41.94
+GNB,2015,Guinea-Bissau,MCV1,80,61696,Western Africa,4,41.9,41.94
+GNB,2016,Guinea-Bissau,DTPCV1,90,63252,Western Africa,5,40.9,40.82
+GNB,2016,Guinea-Bissau,DTPCV3,85,63252,Western Africa,5,40.9,40.82
+GNB,2016,Guinea-Bissau,MCV1,80,63252,Western Africa,5,40.9,40.82
+GNB,2017,Guinea-Bissau,DTPCV1,91,64853,Western Africa,6,40.5,40.44
+GNB,2017,Guinea-Bissau,DTPCV3,79,64853,Western Africa,6,40.5,40.44
+GNB,2017,Guinea-Bissau,MCV1,66,64853,Western Africa,6,40.5,40.44
+GNB,2018,Guinea-Bissau,DTPCV1,92,65031,Western Africa,7,41.1,41.06
+GNB,2018,Guinea-Bissau,DTPCV3,82,65031,Western Africa,7,41.1,41.06
+GNB,2018,Guinea-Bissau,MCV1,79,65031,Western Africa,7,41.1,41.06
+GNB,2019,Guinea-Bissau,DTPCV1,86,66461,Western Africa,8,41.1,41.28
+GNB,2019,Guinea-Bissau,DTPCV3,78,66461,Western Africa,8,41.1,41.28
+GNB,2019,Guinea-Bissau,MCV1,79,66461,Western Africa,8,41.1,41.28
+GNB,2020,Guinea-Bissau,DTPCV1,87,65399,Western Africa,9,40.4,40.32
+GNB,2020,Guinea-Bissau,DTPCV3,74,65399,Western Africa,9,40.4,40.32
+GNB,2020,Guinea-Bissau,MCV1,72,65399,Western Africa,9,40.4,40.32
+GNB,2021,Guinea-Bissau,DTPCV1,81,65584,Western Africa,10,40.2,40.08
+GNB,2021,Guinea-Bissau,DTPCV3,67,65584,Western Africa,10,40.2,40.08
+GNB,2021,Guinea-Bissau,MCV1,63,65584,Western Africa,10,40.2,40.08
+GNQ,2012,Equatorial Guinea,DTPCV1,68,24035,Middle Africa,1,26.1,25.62
+GNQ,2012,Equatorial Guinea,DTPCV3,54,24035,Middle Africa,1,26.1,25.62
+GNQ,2012,Equatorial Guinea,MCV1,49,24035,Middle Africa,1,26.1,25.62
+GNQ,2013,Equatorial Guinea,DTPCV1,73,24732,Middle Africa,2,26.2,25.79
+GNQ,2013,Equatorial Guinea,DTPCV3,53,24732,Middle Africa,2,26.2,25.79
+GNQ,2013,Equatorial Guinea,MCV1,51,24732,Middle Africa,2,26.2,25.79
+GNQ,2014,Equatorial Guinea,DTPCV1,77,25449,Middle Africa,3,26,25.6
+GNQ,2014,Equatorial Guinea,DTPCV3,53,25449,Middle Africa,3,26,25.6
+GNQ,2014,Equatorial Guinea,MCV1,53,25449,Middle Africa,3,26,25.6
+GNQ,2015,Equatorial Guinea,DTPCV1,64,38249,Middle Africa,4,25.9,25.52
+GNQ,2015,Equatorial Guinea,DTPCV3,40,38249,Middle Africa,4,25.9,25.52
+GNQ,2015,Equatorial Guinea,MCV1,50,38249,Middle Africa,4,25.9,25.52
+GNQ,2016,Equatorial Guinea,DTPCV1,77,38440,Middle Africa,5,26.2,25.78
+GNQ,2016,Equatorial Guinea,DTPCV3,53,38440,Middle Africa,5,26.2,25.78
+GNQ,2016,Equatorial Guinea,MCV1,53,38440,Middle Africa,5,26.2,25.78
+GNQ,2017,Equatorial Guinea,DTPCV1,77,38440,Middle Africa,6,26.5,25.98
+GNQ,2017,Equatorial Guinea,DTPCV3,53,38440,Middle Africa,6,26.5,25.98
+GNQ,2017,Equatorial Guinea,MCV1,53,38440,Middle Africa,6,26.5,25.98
+GNQ,2018,Equatorial Guinea,DTPCV1,77,35237,Middle Africa,7,26.9,26.51
+GNQ,2018,Equatorial Guinea,DTPCV3,53,35237,Middle Africa,7,26.9,26.51
+GNQ,2018,Equatorial Guinea,MCV1,53,35237,Middle Africa,7,26.9,26.51
+GNQ,2019,Equatorial Guinea,DTPCV1,77,26172,Middle Africa,8,27.5,27.01
+GNQ,2019,Equatorial Guinea,DTPCV3,53,26172,Middle Africa,8,27.5,27.01
+GNQ,2019,Equatorial Guinea,MCV1,53,26172,Middle Africa,8,27.5,27.01
+GNQ,2020,Equatorial Guinea,DTPCV1,77,25846,Middle Africa,9,27.4,26.79
+GNQ,2020,Equatorial Guinea,DTPCV3,53,25846,Middle Africa,9,27.4,26.79
+GNQ,2020,Equatorial Guinea,MCV1,53,25846,Middle Africa,9,27.4,26.79
+GNQ,2021,Equatorial Guinea,DTPCV1,77,26076,Middle Africa,10,27.3,26.76
+GNQ,2021,Equatorial Guinea,DTPCV3,53,26076,Middle Africa,10,27.3,26.76
+GNQ,2021,Equatorial Guinea,MCV1,53,26076,Middle Africa,10,27.3,26.76
+KEN,2012,Kenya,DTPCV1,98,1339660,Eastern Africa,1,55.6,55.48
+KEN,2012,Kenya,DTPCV3,94,1339660,Eastern Africa,1,55.6,55.48
+KEN,2012,Kenya,MCV1,93,1339660,Eastern Africa,1,55.6,55.48
+KEN,2013,Kenya,DTPCV1,95,1446976,Eastern Africa,2,56.1,56.03
+KEN,2013,Kenya,DTPCV3,87,1446976,Eastern Africa,2,56.1,56.03
+KEN,2013,Kenya,MCV1,94,1446976,Eastern Africa,2,56.1,56.03
+KEN,2014,Kenya,DTPCV1,97,1466308,Eastern Africa,3,57,56.95
+KEN,2014,Kenya,DTPCV3,92,1466308,Eastern Africa,3,57,56.95
+KEN,2014,Kenya,MCV1,95,1466308,Eastern Africa,3,57,56.95
+KEN,2015,Kenya,DTPCV1,96,1549625,Eastern Africa,4,57.7,57.54
+KEN,2015,Kenya,DTPCV3,89,1549625,Eastern Africa,4,57.7,57.54
+KEN,2015,Kenya,MCV1,96,1549625,Eastern Africa,4,57.7,57.54
+KEN,2016,Kenya,DTPCV1,96,1452719,Eastern Africa,5,58.1,57.93
+KEN,2016,Kenya,DTPCV3,89,1452719,Eastern Africa,5,58.1,57.93
+KEN,2016,Kenya,MCV1,96,1452719,Eastern Africa,5,58.1,57.93
+KEN,2017,Kenya,DTPCV1,93,1492565.286,Eastern Africa,6,57.8,57.63
+KEN,2017,Kenya,DTPCV3,82,1492565.286,Eastern Africa,6,57.8,57.63
+KEN,2017,Kenya,MCV1,89,1560932.547,Eastern Africa,6,57.8,57.63
+KEN,2018,Kenya,DTPCV1,97,1593114.7,Eastern Africa,7,57,56.77
+KEN,2018,Kenya,DTPCV3,92,1593114.7,Eastern Africa,7,57,56.77
+KEN,2018,Kenya,MCV1,89,1593114.7,Eastern Africa,7,57,56.77
+KEN,2019,Kenya,DTPCV1,97,1549346.714,Eastern Africa,8,57.6,57.31
+KEN,2019,Kenya,DTPCV3,91,1549346.714,Eastern Africa,8,57.6,57.31
+KEN,2019,Kenya,MCV1,89,1549346.714,Eastern Africa,8,57.6,57.31
+KEN,2020,Kenya,DTPCV1,94,1494648,Eastern Africa,9,57.8,57.42
+KEN,2020,Kenya,DTPCV3,89,1494648,Eastern Africa,9,57.8,57.42
+KEN,2020,Kenya,MCV1,88,1494648,Eastern Africa,9,57.8,57.42
+KEN,2021,Kenya,DTPCV1,99,1517680,Eastern Africa,10,58.7,58.41
+KEN,2021,Kenya,DTPCV3,91,1517680,Eastern Africa,10,58.7,58.41
+KEN,2021,Kenya,MCV1,89,1517680,Eastern Africa,10,58.7,58.41
+LBR,2012,Liberia,DTPCV1,91,151661,Western Africa,1,47.1,47.07
+LBR,2012,Liberia,DTPCV3,80,151661,Western Africa,1,47.1,47.07
+LBR,2012,Liberia,MCV1,80,151661,Western Africa,1,47.1,47.07
+LBR,2013,Liberia,DTPCV1,91,154751,Western Africa,2,46.5,46.5
+LBR,2013,Liberia,DTPCV3,80,154751,Western Africa,2,46.5,46.5
+LBR,2013,Liberia,MCV1,74,154751,Western Africa,2,46.5,46.5
+LBR,2014,Liberia,DTPCV1,74,157533,Western Africa,3,47.5,47.64
+LBR,2014,Liberia,DTPCV3,63,157533,Western Africa,3,47.5,47.64
+LBR,2014,Liberia,MCV1,58,157533,Western Africa,3,47.5,47.64
+LBR,2015,Liberia,DTPCV1,77,160841,Western Africa,4,48.5,48.57
+LBR,2015,Liberia,DTPCV3,65,160841,Western Africa,4,48.5,48.57
+LBR,2015,Liberia,MCV1,64,160841,Western Africa,4,48.5,48.57
+LBR,2016,Liberia,DTPCV1,83,164218,Western Africa,5,48.3,48.35
+LBR,2016,Liberia,DTPCV3,73,164218,Western Africa,5,48.3,48.35
+LBR,2016,Liberia,MCV1,70,164218,Western Africa,5,48.3,48.35
+LBR,2017,Liberia,DTPCV1,89,167667,Western Africa,6,49.2,49.23
+LBR,2017,Liberia,DTPCV3,80,167667,Western Africa,6,49.2,49.23
+LBR,2017,Liberia,MCV1,75,167667,Western Africa,6,49.2,49.23
+LBR,2018,Liberia,DTPCV1,91,173688,Western Africa,7,48.5,48.44
+LBR,2018,Liberia,DTPCV3,80,173688,Western Africa,7,48.5,48.44
+LBR,2018,Liberia,MCV1,74,173688,Western Africa,7,48.5,48.44
+LBR,2019,Liberia,DTPCV1,86,177336,Western Africa,8,48.2,48.2
+LBR,2019,Liberia,DTPCV3,70,177336,Western Africa,8,48.2,48.2
+LBR,2019,Liberia,MCV1,68,177336,Western Africa,8,48.2,48.2
+LBR,2020,Liberia,DTPCV1,82,178453,Western Africa,9,48.2,48.02
+LBR,2020,Liberia,DTPCV3,65,178453,Western Africa,9,48.2,48.02
+LBR,2020,Liberia,MCV1,61,178453,Western Africa,9,48.2,48.02
+LBR,2021,Liberia,DTPCV1,81,182201,Western Africa,10,48.8,48.58
+LBR,2021,Liberia,DTPCV3,66,182201,Western Africa,10,48.8,48.58
+LBR,2021,Liberia,MCV1,58,182201,Western Africa,10,48.8,48.58
+LBY,2012,Libya,DTPCV1,99,192658,Northern Africa,1,44.2,42.89
+LBY,2012,Libya,DTPCV3,98,192658,Northern Africa,1,44.2,42.89
+LBY,2012,Libya,MCV1,98,192658,Northern Africa,1,44.2,42.89
+LBY,2013,Libya,DTPCV1,98,241291,Northern Africa,2,41.9,40.81
+LBY,2013,Libya,DTPCV3,96,241291,Northern Africa,2,41.9,40.81
+LBY,2013,Libya,MCV1,96,241291,Northern Africa,2,41.9,40.81
+LBY,2014,Libya,DTPCV1,96,241291,Northern Africa,3,37,35.42
+LBY,2014,Libya,DTPCV3,94,241291,Northern Africa,3,37,35.42
+LBY,2014,Libya,MCV1,93,241291,Northern Africa,3,37,35.42
+LBY,2015,Libya,DTPCV1,98,221315,Northern Africa,4,36.7,34.99
+LBY,2015,Libya,DTPCV3,97,221315,Northern Africa,4,36.7,34.99
+LBY,2015,Libya,MCV1,98,211315,Northern Africa,4,36.7,34.99
+LBY,2016,Libya,DTPCV1,98,230270,Northern Africa,5,38.1,36.37
+LBY,2016,Libya,DTPCV3,97,230270,Northern Africa,5,38.1,36.37
+LBY,2016,Libya,MCV1,97,230270,Northern Africa,5,38.1,36.37
+LBY,2017,Libya,DTPCV1,99,248613,Northern Africa,6,37.7,36.05
+LBY,2017,Libya,DTPCV3,96,248613,Northern Africa,6,37.7,36.05
+LBY,2017,Libya,MCV1,94,248613,Northern Africa,6,37.7,36.05
+LBY,2018,Libya,DTPCV1,74,265326,Northern Africa,7,36.2,34.71
+LBY,2018,Libya,DTPCV3,73,265326,Northern Africa,7,36.2,34.71
+LBY,2018,Libya,MCV1,73,265326,Northern Africa,7,36.2,34.71
+LBY,2019,Libya,DTPCV1,74,247510,Northern Africa,8,34.9,33.36
+LBY,2019,Libya,DTPCV3,73,247510,Northern Africa,8,34.9,33.36
+LBY,2019,Libya,MCV1,73,247510,Northern Africa,8,34.9,33.36
+LBY,2020,Libya,DTPCV1,74,237046,Northern Africa,9,35.1,33.45
+LBY,2020,Libya,DTPCV3,73,237046,Northern Africa,9,35.1,33.45
+LBY,2020,Libya,MCV1,73,237046,Northern Africa,9,35.1,33.45
+LBY,2021,Libya,DTPCV1,74,236737,Northern Africa,10,35.7,34.15
+LBY,2021,Libya,DTPCV3,73,236737,Northern Africa,10,35.7,34.15
+LBY,2021,Libya,MCV1,73,236737,Northern Africa,10,35.7,34.15
+LSO,2012,Lesotho,DTPCV1,98,52342,Southern Africa,1,55.4,55.71
+LSO,2012,Lesotho,DTPCV3,95,52342,Southern Africa,1,55.4,55.71
+LSO,2012,Lesotho,MCV1,91,52342,Southern Africa,1,55.4,55.71
+LSO,2013,Lesotho,DTPCV1,98,52382,Southern Africa,2,56.1,56.41
+LSO,2013,Lesotho,DTPCV3,93,52382,Southern Africa,2,56.1,56.41
+LSO,2013,Lesotho,MCV1,90,52382,Southern Africa,2,56.1,56.41
+LSO,2014,Lesotho,DTPCV1,94,52343,Southern Africa,3,56.5,56.75
+LSO,2014,Lesotho,DTPCV3,88,52343,Southern Africa,3,56.5,56.75
+LSO,2014,Lesotho,MCV1,92,52343,Southern Africa,3,56.5,56.75
+LSO,2015,Lesotho,DTPCV1,89,52195,Southern Africa,4,55.9,56.1
+LSO,2015,Lesotho,DTPCV3,83,52195,Southern Africa,4,55.9,56.1
+LSO,2015,Lesotho,MCV1,93,52195,Southern Africa,4,55.9,56.1
+LSO,2016,Lesotho,DTPCV1,92,52020,Southern Africa,5,54.7,54.76
+LSO,2016,Lesotho,DTPCV3,87,52020,Southern Africa,5,54.7,54.76
+LSO,2016,Lesotho,MCV1,90,52020,Southern Africa,5,54.7,54.76
+LSO,2017,Lesotho,DTPCV1,92,38114,Southern Africa,6,54.9,55
+LSO,2017,Lesotho,DTPCV3,87,38114,Southern Africa,6,54.9,55
+LSO,2017,Lesotho,MCV1,90,38114,Southern Africa,6,54.9,55
+LSO,2018,Lesotho,DTPCV1,92,38114,Southern Africa,7,55,55.1
+LSO,2018,Lesotho,DTPCV3,87,38114,Southern Africa,7,55,55.1
+LSO,2018,Lesotho,MCV1,90,38114,Southern Africa,7,55,55.1
+LSO,2019,Lesotho,DTPCV1,92,33684,Southern Africa,8,54.4,54.48
+LSO,2019,Lesotho,DTPCV3,87,33684,Southern Africa,8,54.4,54.48
+LSO,2019,Lesotho,MCV1,90,33684,Southern Africa,8,54.4,54.48
+LSO,2020,Lesotho,DTPCV1,92,33024,Southern Africa,9,55.2,55.19
+LSO,2020,Lesotho,DTPCV3,87,33024,Southern Africa,9,55.2,55.19
+LSO,2020,Lesotho,MCV1,90,33024,Southern Africa,9,55.2,55.19
+LSO,2021,Lesotho,DTPCV1,92,32351,Southern Africa,10,54.9,54.89
+LSO,2021,Lesotho,DTPCV3,87,32351,Southern Africa,10,54.9,54.89
+LSO,2021,Lesotho,MCV1,90,32351,Southern Africa,10,54.9,54.89
+MAR,2012,Morocco,DTPCV1,99,702780,Northern Africa,1,56.6,56.03
+MAR,2012,Morocco,DTPCV3,99,702780,Northern Africa,1,56.6,56.03
+MAR,2012,Morocco,MCV1,99,702780,Northern Africa,1,56.6,56.03
+MAR,2013,Morocco,DTPCV1,99,689150,Northern Africa,2,56.5,56.01
+MAR,2013,Morocco,DTPCV3,99,689150,Northern Africa,2,56.5,56.01
+MAR,2013,Morocco,MCV1,99,689150,Northern Africa,2,56.5,56.01
+MAR,2014,Morocco,DTPCV1,99,702478,Northern Africa,3,56.8,56.32
+MAR,2014,Morocco,DTPCV3,99,702478,Northern Africa,3,56.8,56.32
+MAR,2014,Morocco,MCV1,99,702478,Northern Africa,3,56.8,56.32
+MAR,2015,Morocco,DTPCV1,99,724609,Northern Africa,4,57.7,57.21
+MAR,2015,Morocco,DTPCV3,99,724609,Northern Africa,4,57.7,57.21
+MAR,2015,Morocco,MCV1,99,724609,Northern Africa,4,57.7,57.21
+MAR,2016,Morocco,DTPCV1,99,651026,Northern Africa,5,59,58.52
+MAR,2016,Morocco,DTPCV3,99,651026,Northern Africa,5,59,58.52
+MAR,2016,Morocco,MCV1,99,651026,Northern Africa,5,59,58.52
+MAR,2017,Morocco,DTPCV1,99,652810,Northern Africa,6,59.1,58.59
+MAR,2017,Morocco,DTPCV3,99,652810,Northern Africa,6,59.1,58.59
+MAR,2017,Morocco,MCV1,99,652810,Northern Africa,6,59.1,58.59
+MAR,2018,Morocco,DTPCV1,99,654141,Northern Africa,7,59.3,58.8
+MAR,2018,Morocco,DTPCV3,99,654141,Northern Africa,7,59.3,58.8
+MAR,2018,Morocco,MCV1,99,654141,Northern Africa,7,59.3,58.8
+MAR,2019,Morocco,DTPCV1,99,654737,Northern Africa,8,59.5,58.96
+MAR,2019,Morocco,DTPCV3,99,654737,Northern Africa,8,59.5,58.96
+MAR,2019,Morocco,MCV1,99,654737,Northern Africa,8,59.5,58.96
+MAR,2020,Morocco,DTPCV1,99,654737,Northern Africa,9,60.4,59.93
+MAR,2020,Morocco,DTPCV3,99,654737,Northern Africa,9,60.4,59.93
+MAR,2020,Morocco,MCV1,99,654737,Northern Africa,9,60.4,59.93
+MAR,2021,Morocco,DTPCV1,99,654737,Northern Africa,10,61.5,61.02
+MAR,2021,Morocco,DTPCV3,99,654737,Northern Africa,10,61.5,61.02
+MAR,2021,Morocco,MCV1,99,654737,Northern Africa,10,61.5,61.02
+MDG,2012,Madagascar,DTPCV1,78,769067,Eastern Africa,1,41.2,41.27
+MDG,2012,Madagascar,DTPCV3,68,769067,Eastern Africa,1,41.2,41.27
+MDG,2012,Madagascar,MCV1,62,769067,Eastern Africa,1,41.2,41.27
+MDG,2013,Madagascar,DTPCV1,76,781645,Eastern Africa,2,42.2,42.33
+MDG,2013,Madagascar,DTPCV3,70,781645,Eastern Africa,2,42.2,42.33
+MDG,2013,Madagascar,MCV1,64,781645,Eastern Africa,2,42.2,42.33
+MDG,2014,Madagascar,DTPCV1,77,804676,Eastern Africa,3,44.3,44.47
+MDG,2014,Madagascar,DTPCV3,68,804676,Eastern Africa,3,44.3,44.47
+MDG,2014,Madagascar,MCV1,66,804676,Eastern Africa,3,44.3,44.47
+MDG,2015,Madagascar,DTPCV1,71,793478,Eastern Africa,4,44.4,44.57
+MDG,2015,Madagascar,DTPCV3,62,793478,Eastern Africa,4,44.4,44.57
+MDG,2015,Madagascar,MCV1,60,793478,Eastern Africa,4,44.4,44.57
+MDG,2016,Madagascar,DTPCV1,74,814902,Eastern Africa,5,45,45.1
+MDG,2016,Madagascar,DTPCV3,68,814902,Eastern Africa,5,45,45.1
+MDG,2016,Madagascar,MCV1,62,814902,Eastern Africa,5,45,45.1
+MDG,2017,Madagascar,DTPCV1,71,850166,Eastern Africa,6,44.6,44.67
+MDG,2017,Madagascar,DTPCV3,65,850166,Eastern Africa,6,44.6,44.67
+MDG,2017,Madagascar,MCV1,55,850166,Eastern Africa,6,44.6,44.67
+MDG,2018,Madagascar,DTPCV1,77,876810,Eastern Africa,7,44.8,44.86
+MDG,2018,Madagascar,DTPCV3,74,876810,Eastern Africa,7,44.8,44.86
+MDG,2018,Madagascar,MCV1,68,876810,Eastern Africa,7,44.8,44.86
+MDG,2019,Madagascar,DTPCV1,77,900484,Eastern Africa,8,44.3,44.32
+MDG,2019,Madagascar,DTPCV3,70,900484,Eastern Africa,8,44.3,44.32
+MDG,2019,Madagascar,MCV1,60,900484,Eastern Africa,8,44.3,44.32
+MDG,2020,Madagascar,DTPCV1,78,909123,Eastern Africa,9,43.9,43.86
+MDG,2020,Madagascar,DTPCV3,68,909123,Eastern Africa,9,43.9,43.86
+MDG,2020,Madagascar,MCV1,55,909123,Eastern Africa,9,43.9,43.86
+MDG,2021,Madagascar,DTPCV1,66,936952,Eastern Africa,10,44.2,44.12
+MDG,2021,Madagascar,DTPCV3,57,936952,Eastern Africa,10,44.2,44.12
+MDG,2021,Madagascar,MCV1,44,936952,Eastern Africa,10,44.2,44.12
+MLI,2012,Mali,DTPCV1,75,647544,Western Africa,1,46.4,46.22
+MLI,2012,Mali,DTPCV3,65,647544,Western Africa,1,46.4,46.22
+MLI,2012,Mali,MCV1,67,647544,Western Africa,1,46.4,46.22
+MLI,2013,Mali,DTPCV1,69,673681,Western Africa,2,46.7,46.45
+MLI,2013,Mali,DTPCV3,64,673681,Western Africa,2,46.7,46.45
+MLI,2013,Mali,MCV1,62,673681,Western Africa,2,46.7,46.45
+MLI,2014,Mali,DTPCV1,73,693803,Western Africa,3,46.7,46.38
+MLI,2014,Mali,DTPCV3,66,693803,Western Africa,3,46.7,46.38
+MLI,2014,Mali,MCV1,61,693803,Western Africa,3,46.7,46.38
+MLI,2015,Mali,DTPCV1,78,714245,Western Africa,4,47.1,46.81
+MLI,2015,Mali,DTPCV3,71,714245,Western Africa,4,47.1,46.81
+MLI,2015,Mali,MCV1,66,714245,Western Africa,4,47.1,46.81
+MLI,2016,Mali,DTPCV1,82,735249,Western Africa,5,46.7,46.31
+MLI,2016,Mali,DTPCV3,76,735249,Western Africa,5,46.7,46.31
+MLI,2016,Mali,MCV1,70,735249,Western Africa,5,46.7,46.31
+MLI,2017,Mali,DTPCV1,82,756614,Western Africa,6,45.7,45.25
+MLI,2017,Mali,DTPCV3,77,756614,Western Africa,6,45.7,45.25
+MLI,2017,Mali,MCV1,70,756614,Western Africa,6,45.7,45.25
+MLI,2018,Mali,DTPCV1,82,778379,Western Africa,7,44,43.45
+MLI,2018,Mali,DTPCV3,77,778379,Western Africa,7,44,43.45
+MLI,2018,Mali,MCV1,70,778379,Western Africa,7,44,43.45
+MLI,2019,Mali,DTPCV1,82,806132,Western Africa,8,44.6,44.02
+MLI,2019,Mali,DTPCV3,77,806132,Western Africa,8,44.6,44.02
+MLI,2019,Mali,MCV1,70,806132,Western Africa,8,44.6,44.02
+MLI,2020,Mali,DTPCV1,75,829299,Western Africa,9,43.6,42.95
+MLI,2020,Mali,DTPCV3,70,829299,Western Africa,9,43.6,42.95
+MLI,2020,Mali,MCV1,62,829299,Western Africa,9,43.6,42.95
+MLI,2021,Mali,DTPCV1,82,852391,Western Africa,10,43.1,42.41
+MLI,2021,Mali,DTPCV3,77,852391,Western Africa,10,43.1,42.41
+MLI,2021,Mali,MCV1,70,852391,Western Africa,10,43.1,42.41
+MOZ,2012,Mozambique,DTPCV1,92,924328,Eastern Africa,1,49.4,49.24
+MOZ,2012,Mozambique,DTPCV3,81,924328,Eastern Africa,1,49.4,49.24
+MOZ,2012,Mozambique,MCV1,85,924328,Eastern Africa,1,49.4,49.24
+MOZ,2013,Mozambique,DTPCV1,93,980662,Eastern Africa,2,49.3,49.14
+MOZ,2013,Mozambique,DTPCV3,85,980662,Eastern Africa,2,49.3,49.14
+MOZ,2013,Mozambique,MCV1,86,980662,Eastern Africa,2,49.3,49.14
+MOZ,2014,Mozambique,DTPCV1,93,976635,Eastern Africa,3,49.4,49.17
+MOZ,2014,Mozambique,DTPCV3,88,976635,Eastern Africa,3,49.4,49.17
+MOZ,2014,Mozambique,MCV1,87,976635,Eastern Africa,3,49.4,49.17
+MOZ,2015,Mozambique,DTPCV1,93,1035470,Eastern Africa,4,49.7,49.45
+MOZ,2015,Mozambique,DTPCV3,88,1035470,Eastern Africa,4,49.7,49.45
+MOZ,2015,Mozambique,MCV1,87,1035470,Eastern Africa,4,49.7,49.45
+MOZ,2016,Mozambique,DTPCV1,92,1048235,Eastern Africa,5,49.3,48.99
+MOZ,2016,Mozambique,DTPCV3,88,1048235,Eastern Africa,5,49.3,48.99
+MOZ,2016,Mozambique,MCV1,87,1048235,Eastern Africa,5,49.3,48.99
+MOZ,2017,Mozambique,DTPCV1,92,1058012,Eastern Africa,6,48.8,48.41
+MOZ,2017,Mozambique,DTPCV3,88,1058012,Eastern Africa,6,48.8,48.41
+MOZ,2017,Mozambique,MCV1,87,1058012,Eastern Africa,6,48.8,48.41
+MOZ,2018,Mozambique,DTPCV1,91,1001157,Eastern Africa,7,49.6,49.16
+MOZ,2018,Mozambique,DTPCV3,88,1001157,Eastern Africa,7,49.6,49.16
+MOZ,2018,Mozambique,MCV1,87,1001157,Eastern Africa,7,49.6,49.16
+MOZ,2019,Mozambique,DTPCV1,91,1002534,Eastern Africa,8,49.3,48.71
+MOZ,2019,Mozambique,DTPCV3,88,1002534,Eastern Africa,8,49.3,48.71
+MOZ,2019,Mozambique,MCV1,87,1002534,Eastern Africa,8,49.3,48.71
+MOZ,2020,Mozambique,DTPCV1,83,1054798,Eastern Africa,9,48.7,48.04
+MOZ,2020,Mozambique,DTPCV3,79,1054798,Eastern Africa,9,48.7,48.04
+MOZ,2020,Mozambique,MCV1,81,1054798,Eastern Africa,9,48.7,48.04
+MOZ,2021,Mozambique,DTPCV1,67,1073872,Eastern Africa,10,48.6,47.87
+MOZ,2021,Mozambique,DTPCV3,61,1073872,Eastern Africa,10,48.6,47.87
+MOZ,2021,Mozambique,MCV1,84,1073872,Eastern Africa,10,48.6,47.87
+MRT,2012,Mauritania,DTPCV1,95,135396.9625,Western Africa,1,39.1,38.76
+MRT,2012,Mauritania,DTPCV3,80,135396.9625,Western Africa,1,39.1,38.76
+MRT,2012,Mauritania,MCV1,75,135396.9625,Western Africa,1,39.1,38.76
+MRT,2013,Mauritania,DTPCV1,95,138646,Western Africa,2,38.6,38.26
+MRT,2013,Mauritania,DTPCV3,80,138646,Western Africa,2,38.6,38.26
+MRT,2013,Mauritania,MCV1,80,138646,Western Africa,2,38.6,38.26
+MRT,2014,Mauritania,DTPCV1,95,147639,Western Africa,3,38.5,38.01
+MRT,2014,Mauritania,DTPCV3,81,147639,Western Africa,3,38.5,38.01
+MRT,2014,Mauritania,MCV1,75,147639,Western Africa,3,38.5,38.01
+MRT,2015,Mauritania,DTPCV1,87,151684,Western Africa,4,39.1,38.63
+MRT,2015,Mauritania,DTPCV3,73,151684,Western Africa,4,39.1,38.63
+MRT,2015,Mauritania,MCV1,70,151684,Western Africa,4,39.1,38.63
+MRT,2016,Mauritania,DTPCV1,87,130297,Western Africa,5,39.9,39.52
+MRT,2016,Mauritania,DTPCV3,74,130297,Western Africa,5,39.9,39.52
+MRT,2016,Mauritania,MCV1,73,130297,Western Africa,5,39.9,39.52
+MRT,2017,Mauritania,DTPCV1,86,133690,Western Africa,6,40.1,39.67
+MRT,2017,Mauritania,DTPCV3,76,133690,Western Africa,6,40.1,39.67
+MRT,2017,Mauritania,MCV1,75,133690,Western Africa,6,40.1,39.67
+MRT,2018,Mauritania,DTPCV1,86,142137,Western Africa,7,40.5,40.03
+MRT,2018,Mauritania,DTPCV3,77,142137,Western Africa,7,40.5,40.03
+MRT,2018,Mauritania,MCV1,78,142137,Western Africa,7,40.5,40.03
+MRT,2019,Mauritania,DTPCV1,88,145452,Western Africa,8,41.9,41.26
+MRT,2019,Mauritania,DTPCV3,80,145452,Western Africa,8,41.9,41.26
+MRT,2019,Mauritania,MCV1,75,145452,Western Africa,8,41.9,41.26
+MRT,2020,Mauritania,DTPCV1,80,148872,Western Africa,9,41.9,41.28
+MRT,2020,Mauritania,DTPCV3,72,148872,Western Africa,9,41.9,41.28
+MRT,2020,Mauritania,MCV1,70,148872,Western Africa,9,41.9,41.28
+MRT,2021,Mauritania,DTPCV1,75,152371,Western Africa,10,41.3,40.73
+MRT,2021,Mauritania,DTPCV3,68,152371,Western Africa,10,41.3,40.73
+MRT,2021,Mauritania,MCV1,63,152371,Western Africa,10,41.3,40.73
+MUS,2012,Mauritius,DTPCV1,99,14287,Eastern Africa,1,77.1,77.72
+MUS,2012,Mauritius,DTPCV3,98,14287,Eastern Africa,1,77.1,77.72
+MUS,2012,Mauritius,MCV1,99,14287,Eastern Africa,1,77.1,77.72
+MUS,2013,Mauritius,DTPCV1,99,13523,Eastern Africa,2,77.1,77.61
+MUS,2013,Mauritius,DTPCV3,98,13523,Eastern Africa,2,77.1,77.61
+MUS,2013,Mauritius,MCV1,99,13523,Eastern Africa,2,77.1,77.61
+MUS,2014,Mauritius,DTPCV1,97,13221,Eastern Africa,3,76.7,77.14
+MUS,2014,Mauritius,DTPCV3,97,13221,Eastern Africa,3,76.7,77.14
+MUS,2014,Mauritius,MCV1,98,13221,Eastern Africa,3,76.7,77.14
+MUS,2015,Mauritius,DTPCV1,98,12565,Eastern Africa,4,77.1,77.56
+MUS,2015,Mauritius,DTPCV3,97,12565,Eastern Africa,4,77.1,77.56
+MUS,2015,Mauritius,MCV1,99,12565,Eastern Africa,4,77.1,77.56
+MUS,2016,Mauritius,DTPCV1,97,12928,Eastern Africa,5,78.4,78.88
+MUS,2016,Mauritius,DTPCV3,96,12928,Eastern Africa,5,78.4,78.88
+MUS,2016,Mauritius,MCV1,92,12928,Eastern Africa,5,78.4,78.88
+MUS,2017,Mauritius,DTPCV1,96,13315,Eastern Africa,6,78.3,78.74
+MUS,2017,Mauritius,DTPCV3,94,13315,Eastern Africa,6,78.3,78.74
+MUS,2017,Mauritius,MCV1,89,13315,Eastern Africa,6,78.3,78.74
+MUS,2018,Mauritius,DTPCV1,98,12784,Eastern Africa,7,77.9,78.31
+MUS,2018,Mauritius,DTPCV3,97,12784,Eastern Africa,7,77.9,78.31
+MUS,2018,Mauritius,MCV1,99,12784,Eastern Africa,7,77.9,78.31
+MUS,2019,Mauritius,DTPCV1,97,12675,Eastern Africa,8,76.6,76.96
+MUS,2019,Mauritius,DTPCV3,96,12675,Eastern Africa,8,76.6,76.96
+MUS,2019,Mauritius,MCV1,99,12675,Eastern Africa,8,76.6,76.96
+MUS,2020,Mauritius,DTPCV1,94,13265,Eastern Africa,9,75.5,75.81
+MUS,2020,Mauritius,DTPCV3,93,13265,Eastern Africa,9,75.5,75.81
+MUS,2020,Mauritius,MCV1,89,13265,Eastern Africa,9,75.5,75.81
+MUS,2021,Mauritius,DTPCV1,93,12803,Eastern Africa,10,74.9,75.23
+MUS,2021,Mauritius,DTPCV3,92,12803,Eastern Africa,10,74.9,75.23
+MUS,2021,Mauritius,MCV1,87,12803,Eastern Africa,10,74.9,75.23
+MWI,2012,Malawi,DTPCV1,99,614359,Eastern Africa,1,53.2,53.05
+MWI,2012,Malawi,DTPCV3,96,614359,Eastern Africa,1,53.2,53.05
+MWI,2012,Malawi,MCV1,90,614359,Eastern Africa,1,53.2,53.05
+MWI,2013,Malawi,DTPCV1,96,627816,Eastern Africa,2,53.5,53.24
+MWI,2013,Malawi,DTPCV3,89,627816,Eastern Africa,2,53.5,53.24
+MWI,2013,Malawi,MCV1,88,627816,Eastern Africa,2,53.5,53.24
+MWI,2014,Malawi,DTPCV1,97,660293,Eastern Africa,3,53.4,53.08
+MWI,2014,Malawi,DTPCV3,91,660293,Eastern Africa,3,53.4,53.08
+MWI,2014,Malawi,MCV1,85,660293,Eastern Africa,3,53.4,53.08
+MWI,2015,Malawi,DTPCV1,93,675335,Eastern Africa,4,54.4,54.13
+MWI,2015,Malawi,DTPCV3,88,675335,Eastern Africa,4,54.4,54.13
+MWI,2015,Malawi,MCV1,87,675335,Eastern Africa,4,54.4,54.13
+MWI,2016,Malawi,DTPCV1,89,679152,Eastern Africa,5,54.2,53.85
+MWI,2016,Malawi,DTPCV3,84,679152,Eastern Africa,5,54.2,53.85
+MWI,2016,Malawi,MCV1,81,679152,Eastern Africa,5,54.2,53.85
+MWI,2017,Malawi,DTPCV1,93,698054,Eastern Africa,6,53.9,53.48
+MWI,2017,Malawi,DTPCV3,88,698054,Eastern Africa,6,53.9,53.48
+MWI,2017,Malawi,MCV1,83,698054,Eastern Africa,6,53.9,53.48
+MWI,2018,Malawi,DTPCV1,96,724502,Eastern Africa,7,53.3,52.89
+MWI,2018,Malawi,DTPCV3,92,724502,Eastern Africa,7,53.3,52.89
+MWI,2018,Malawi,MCV1,87,724502,Eastern Africa,7,53.3,52.89
+MWI,2019,Malawi,DTPCV1,97,729380,Eastern Africa,8,52.7,52.33
+MWI,2019,Malawi,DTPCV3,95,729380,Eastern Africa,8,52.7,52.33
+MWI,2019,Malawi,MCV1,92,729380,Eastern Africa,8,52.7,52.33
+MWI,2020,Malawi,DTPCV1,95,747470,Eastern Africa,9,53.7,53.35
+MWI,2020,Malawi,DTPCV3,94,747470,Eastern Africa,9,53.7,53.35
+MWI,2020,Malawi,MCV1,90,747470,Eastern Africa,9,53.7,53.35
+MWI,2021,Malawi,DTPCV1,95,715540,Eastern Africa,10,54.6,54.25
+MWI,2021,Malawi,DTPCV3,93,715540,Eastern Africa,10,54.6,54.25
+MWI,2021,Malawi,MCV1,90,715540,Eastern Africa,10,54.6,54.25
+NAM,2012,Namibia,DTPCV1,89,74953,Southern Africa,1,63.1,63.53
+NAM,2012,Namibia,DTPCV3,84,74953,Southern Africa,1,63.1,63.53
+NAM,2012,Namibia,MCV1,76,74953,Southern Africa,1,63.1,63.53
+NAM,2013,Namibia,DTPCV1,94,74618,Southern Africa,2,63.7,64.04
+NAM,2013,Namibia,DTPCV3,89,74618,Southern Africa,2,63.7,64.04
+NAM,2013,Namibia,MCV1,82,74618,Southern Africa,2,63.7,64.04
+NAM,2014,Namibia,DTPCV1,92,77054,Southern Africa,3,64.3,64.72
+NAM,2014,Namibia,DTPCV3,88,77054,Southern Africa,3,64.3,64.72
+NAM,2014,Namibia,MCV1,83,77054,Southern Africa,3,64.3,64.72
+NAM,2015,Namibia,DTPCV1,98,78169,Southern Africa,4,65.2,65.58
+NAM,2015,Namibia,DTPCV3,92,78169,Southern Africa,4,65.2,65.58
+NAM,2015,Namibia,MCV1,85,78169,Southern Africa,4,65.2,65.58
+NAM,2016,Namibia,DTPCV1,90,84034,Southern Africa,5,64.7,65.03
+NAM,2016,Namibia,DTPCV3,85,84034,Southern Africa,5,64.7,65.03
+NAM,2016,Namibia,MCV1,75,84034,Southern Africa,5,64.7,65.03
+NAM,2017,Namibia,DTPCV1,94,83869,Southern Africa,6,64.4,64.68
+NAM,2017,Namibia,DTPCV3,88,83869,Southern Africa,6,64.4,64.68
+NAM,2017,Namibia,MCV1,80,83869,Southern Africa,6,64.4,64.68
+NAM,2018,Namibia,DTPCV1,94,82977,Southern Africa,7,64.7,65.14
+NAM,2018,Namibia,DTPCV3,89,82977,Southern Africa,7,64.7,65.14
+NAM,2018,Namibia,MCV1,82,82977,Southern Africa,7,64.7,65.14
+NAM,2019,Namibia,DTPCV1,92,84539,Southern Africa,8,64.3,64.47
+NAM,2019,Namibia,DTPCV3,87,84539,Southern Africa,8,64.3,64.47
+NAM,2019,Namibia,MCV1,80,84539,Southern Africa,8,64.3,64.47
+NAM,2020,Namibia,DTPCV1,97,84539,Southern Africa,9,64.1,64.08
+NAM,2020,Namibia,DTPCV3,93,84539,Southern Africa,9,64.1,64.08
+NAM,2020,Namibia,MCV1,90,84539,Southern Africa,9,64.1,64.08
+NAM,2021,Namibia,DTPCV1,98,94101,Southern Africa,10,64.1,64
+NAM,2021,Namibia,DTPCV3,94,94101,Southern Africa,10,64.1,64
+NAM,2021,Namibia,MCV1,91,94101,Southern Africa,10,64.1,64
+NER,2012,Niger,DTPCV1,87,874601,Western Africa,1,48.6,48.94
+NER,2012,Niger,DTPCV3,71,874601,Western Africa,1,48.6,48.94
+NER,2012,Niger,MCV1,75,874601,Western Africa,1,48.6,48.94
+NER,2013,Niger,DTPCV1,89,902681,Western Africa,2,48.5,48.8
+NER,2013,Niger,DTPCV3,73,902681,Western Africa,2,48.5,48.8
+NER,2013,Niger,MCV1,80,902681,Western Africa,2,48.5,48.8
+NER,2014,Niger,DTPCV1,95,937480,Western Africa,3,47.7,47.86
+NER,2014,Niger,DTPCV3,81,937480,Western Africa,3,47.7,47.86
+NER,2014,Niger,MCV1,80,937480,Western Africa,3,47.7,47.86
+NER,2015,Niger,DTPCV1,93,974339,Western Africa,4,47.2,47.31
+NER,2015,Niger,DTPCV3,84,974339,Western Africa,4,47.2,47.31
+NER,2015,Niger,MCV1,85,974339,Western Africa,4,47.2,47.31
+NER,2016,Niger,DTPCV1,92,1013382,Western Africa,5,46.8,46.92
+NER,2016,Niger,DTPCV3,80,1013382,Western Africa,5,46.8,46.92
+NER,2016,Niger,MCV1,76,1013382,Western Africa,5,46.8,46.92
+NER,2017,Niger,DTPCV1,95,1053636,Western Africa,6,47.7,47.79
+NER,2017,Niger,DTPCV3,85,1053636,Western Africa,6,47.7,47.79
+NER,2017,Niger,MCV1,82,1053636,Western Africa,6,47.7,47.79
+NER,2018,Niger,DTPCV1,91,930965,Western Africa,7,46.6,46.56
+NER,2018,Niger,DTPCV3,79,930965,Western Africa,7,46.6,46.56
+NER,2018,Niger,MCV1,77,930965,Western Africa,7,46.6,46.56
+NER,2019,Niger,DTPCV1,92,965240,Western Africa,8,47,47.04
+NER,2019,Niger,DTPCV3,81,965240,Western Africa,8,47,47.04
+NER,2019,Niger,MCV1,79,965240,Western Africa,8,47,47.04
+NER,2020,Niger,DTPCV1,93,967726,Western Africa,9,45.9,46.23
+NER,2020,Niger,DTPCV3,81,967726,Western Africa,9,45.9,46.23
+NER,2020,Niger,MCV1,79,967726,Western Africa,9,45.9,46.23
+NER,2021,Niger,DTPCV1,94,996162,Western Africa,10,46,46.28
+NER,2021,Niger,DTPCV3,82,996162,Western Africa,10,46,46.28
+NER,2021,Niger,MCV1,80,996162,Western Africa,10,46,46.28
+NGA,2012,Nigeria,DTPCV1,51,6344760,Western Africa,1,48.2,48.43
+NGA,2012,Nigeria,DTPCV3,42,6344760,Western Africa,1,48.2,48.43
+NGA,2012,Nigeria,MCV1,42,6344760,Western Africa,1,48.2,48.43
+NGA,2013,Nigeria,DTPCV1,49,6582808,Western Africa,2,48,48.18
+NGA,2013,Nigeria,DTPCV3,43,6582808,Western Africa,2,48,48.18
+NGA,2013,Nigeria,MCV1,43,6582808,Western Africa,2,48,48.18
+NGA,2014,Nigeria,DTPCV1,48,6865728,Western Africa,3,48.2,48.32
+NGA,2014,Nigeria,DTPCV3,43,6865728,Western Africa,3,48.2,48.32
+NGA,2014,Nigeria,MCV1,44,6865728,Western Africa,3,48.2,48.32
+NGA,2015,Nigeria,DTPCV1,49,7160808,Western Africa,4,49.6,49.78
+NGA,2015,Nigeria,DTPCV3,42,7160808,Western Africa,4,49.6,49.78
+NGA,2015,Nigeria,MCV1,42,7160808,Western Africa,4,49.6,49.78
+NGA,2016,Nigeria,DTPCV1,62,7140357.12,Western Africa,5,49.5,49.71
+NGA,2016,Nigeria,DTPCV3,53,7140357.12,Western Africa,5,49.5,49.71
+NGA,2016,Nigeria,MCV1,48,7140357.12,Western Africa,5,49.5,49.71
+NGA,2017,Nigeria,DTPCV1,65,7327674,Western Africa,6,48.3,48.45
+NGA,2017,Nigeria,DTPCV3,55,7327674,Western Africa,6,48.3,48.45
+NGA,2017,Nigeria,MCV1,54,7327674,Western Africa,6,48.3,48.45
+NGA,2018,Nigeria,DTPCV1,69,7565078,Western Africa,7,48.3,48.39
+NGA,2018,Nigeria,DTPCV3,61,7565078,Western Africa,7,48.3,48.39
+NGA,2018,Nigeria,MCV1,56,7565078,Western Africa,7,48.3,48.39
+NGA,2019,Nigeria,DTPCV1,72,7810725,Western Africa,8,47.9,47.95
+NGA,2019,Nigeria,DTPCV3,66,7810725,Western Africa,8,47.9,47.95
+NGA,2019,Nigeria,MCV1,58,7810725,Western Africa,8,47.9,47.95
+NGA,2020,Nigeria,DTPCV1,70,8064971,Western Africa,9,48.4,48.36
+NGA,2020,Nigeria,DTPCV3,62,8064971,Western Africa,9,48.4,48.36
+NGA,2020,Nigeria,MCV1,60,8064971,Western Africa,9,48.4,48.36
+NGA,2021,Nigeria,DTPCV1,70,8036751,Western Africa,10,47.7,47.69
+NGA,2021,Nigeria,DTPCV3,62,8036751,Western Africa,10,47.7,47.69
+NGA,2021,Nigeria,MCV1,60,8036751,Western Africa,10,47.7,47.69
+RWA,2012,Rwanda,DTPCV1,99,314609,Eastern Africa,1,57.1,56.43
+RWA,2012,Rwanda,DTPCV3,98,314609,Eastern Africa,1,57.1,56.43
+RWA,2012,Rwanda,MCV1,97,314609,Eastern Africa,1,57.1,56.43
+RWA,2013,Rwanda,DTPCV1,99,318390,Eastern Africa,2,58.2,57.49
+RWA,2013,Rwanda,DTPCV3,98,318390,Eastern Africa,2,58.2,57.49
+RWA,2013,Rwanda,MCV1,95,318390,Eastern Africa,2,58.2,57.49
+RWA,2014,Rwanda,DTPCV1,99,329491,Eastern Africa,3,58.1,57.44
+RWA,2014,Rwanda,DTPCV3,98,329491,Eastern Africa,3,58.1,57.44
+RWA,2014,Rwanda,MCV1,97,329491,Eastern Africa,3,58.1,57.44
+RWA,2015,Rwanda,DTPCV1,99,336669,Eastern Africa,4,58.7,58.02
+RWA,2015,Rwanda,DTPCV3,98,336669,Eastern Africa,4,58.7,58.02
+RWA,2015,Rwanda,MCV1,96,336669,Eastern Africa,4,58.7,58.02
+RWA,2016,Rwanda,DTPCV1,99,343733,Eastern Africa,5,59.2,58.47
+RWA,2016,Rwanda,DTPCV3,98,343733,Eastern Africa,5,59.2,58.47
+RWA,2016,Rwanda,MCV1,95,343733,Eastern Africa,5,59.2,58.47
+RWA,2017,Rwanda,DTPCV1,99,350803,Eastern Africa,6,59.1,58.39
+RWA,2017,Rwanda,DTPCV3,98,350803,Eastern Africa,6,59.1,58.39
+RWA,2017,Rwanda,MCV1,97,350803,Eastern Africa,6,59.1,58.39
+RWA,2018,Rwanda,DTPCV1,98,357822,Eastern Africa,7,59.3,58.61
+RWA,2018,Rwanda,DTPCV3,97,357822,Eastern Africa,7,59.3,58.61
+RWA,2018,Rwanda,MCV1,99,357822,Eastern Africa,7,59.3,58.61
+RWA,2019,Rwanda,DTPCV1,99,364820,Eastern Africa,8,59.1,58.37
+RWA,2019,Rwanda,DTPCV3,98,364820,Eastern Africa,8,59.1,58.37
+RWA,2019,Rwanda,MCV1,96,364820,Eastern Africa,8,59.1,58.37
+RWA,2020,Rwanda,DTPCV1,91,371803,Eastern Africa,9,59.5,58.82
+RWA,2020,Rwanda,DTPCV3,91,371803,Eastern Africa,9,59.5,58.82
+RWA,2020,Rwanda,MCV1,94,371803,Eastern Africa,9,59.5,58.82
+RWA,2021,Rwanda,DTPCV1,90,378858,Eastern Africa,10,59.1,58.41
+RWA,2021,Rwanda,DTPCV3,88,378858,Eastern Africa,10,59.1,58.41
+RWA,2021,Rwanda,MCV1,87,378858,Eastern Africa,10,59.1,58.41
+SDN,2012,Sudan,DTPCV1,97,1284722,Northern Africa,1,29.4,28.56
+SDN,2012,Sudan,DTPCV3,92,1284722,Northern Africa,1,29.4,28.56
+SDN,2012,Sudan,MCV1,85,1284722,Northern Africa,1,29.4,28.56
+SDN,2013,Sudan,DTPCV1,97,1327318,Northern Africa,2,28.9,28.08
+SDN,2013,Sudan,DTPCV3,93,1327318,Northern Africa,2,28.9,28.08
+SDN,2013,Sudan,MCV1,85,1327318,Northern Africa,2,28.9,28.08
+SDN,2014,Sudan,DTPCV1,98,1363795,Northern Africa,3,27.9,26.99
+SDN,2014,Sudan,DTPCV3,94,1363795,Northern Africa,3,27.9,26.99
+SDN,2014,Sudan,MCV1,86,1363795,Northern Africa,3,27.9,26.99
+SDN,2015,Sudan,DTPCV1,97,1402510,Northern Africa,4,28.4,27.44
+SDN,2015,Sudan,DTPCV3,93,1402510,Northern Africa,4,28.4,27.44
+SDN,2015,Sudan,MCV1,87,1402510,Northern Africa,4,28.4,27.44
+SDN,2016,Sudan,DTPCV1,97,1466741,Northern Africa,5,28.6,27.68
+SDN,2016,Sudan,DTPCV3,93,1466741,Northern Africa,5,28.6,27.68
+SDN,2016,Sudan,MCV1,86,1466741,Northern Africa,5,28.6,27.68
+SDN,2017,Sudan,DTPCV1,98,1520161,Northern Africa,6,30.1,29.18
+SDN,2017,Sudan,DTPCV3,95,1520161,Northern Africa,6,30.1,29.18
+SDN,2017,Sudan,MCV1,90,1520161,Northern Africa,6,30.1,29.18
+SDN,2018,Sudan,DTPCV1,97,1584415,Northern Africa,7,30.1,29.13
+SDN,2018,Sudan,DTPCV3,93,1548415,Northern Africa,7,30.1,29.13
+SDN,2018,Sudan,MCV1,88,1548415,Northern Africa,7,30.1,29.13
+SDN,2019,Sudan,DTPCV1,97,1635788,Northern Africa,8,32,31.25
+SDN,2019,Sudan,DTPCV3,93,1635788,Northern Africa,8,32,31.25
+SDN,2019,Sudan,MCV1,90,1635788,Northern Africa,8,32,31.25
+SDN,2020,Sudan,DTPCV1,96,1684151,Northern Africa,9,34.3,33.67
+SDN,2020,Sudan,DTPCV3,90,1684151,Northern Africa,9,34.3,33.67
+SDN,2020,Sudan,MCV1,86,1684151,Northern Africa,9,34.3,33.67
+SDN,2021,Sudan,DTPCV1,94,1753839,Northern Africa,10,34.5,33.95
+SDN,2021,Sudan,DTPCV3,84,1753839,Northern Africa,10,34.5,33.95
+SDN,2021,Sudan,MCV1,81,1753839,Northern Africa,10,34.5,33.95
+SEN,2012,Senegal,DTPCV1,96,509137,Western Africa,1,60.9,61.13
+SEN,2012,Senegal,DTPCV3,91,509137,Western Africa,1,60.9,61.13
+SEN,2012,Senegal,MCV1,83,509137,Western Africa,1,60.9,61.13
+SEN,2013,Senegal,DTPCV1,96,529434,Western Africa,2,61.9,62.13
+SEN,2013,Senegal,DTPCV3,92,529434,Western Africa,2,61.9,62.13
+SEN,2013,Senegal,MCV1,84,529434,Western Africa,2,61.9,62.13
+SEN,2014,Senegal,DTPCV1,94,549731,Western Africa,3,62.2,62.43
+SEN,2014,Senegal,DTPCV3,89,549731,Western Africa,3,62.2,62.43
+SEN,2014,Senegal,MCV1,80,549731,Western Africa,3,62.2,62.43
+SEN,2015,Senegal,DTPCV1,94,541026,Western Africa,4,62.2,62.41
+SEN,2015,Senegal,DTPCV3,89,541026,Western Africa,4,62.2,62.41
+SEN,2015,Senegal,MCV1,80,541026,Western Africa,4,62.2,62.41
+SEN,2016,Senegal,DTPCV1,96,513509,Western Africa,5,62.6,62.77
+SEN,2016,Senegal,DTPCV3,93,513509,Western Africa,5,62.6,62.77
+SEN,2016,Senegal,MCV1,93,513509,Western Africa,5,62.6,62.77
+SEN,2017,Senegal,DTPCV1,97,538549,Western Africa,6,62.2,62.26
+SEN,2017,Senegal,DTPCV3,93,538549,Western Africa,6,62.2,62.26
+SEN,2017,Senegal,MCV1,90,538549,Western Africa,6,62.2,62.26
+SEN,2018,Senegal,DTPCV1,96,548839,Western Africa,7,62.2,62.22
+SEN,2018,Senegal,DTPCV3,92,548839,Western Africa,7,62.2,62.22
+SEN,2018,Senegal,MCV1,86,548839,Western Africa,7,62.2,62.22
+SEN,2019,Senegal,DTPCV1,97,559215,Western Africa,8,62.5,62.42
+SEN,2019,Senegal,DTPCV3,95,559215,Western Africa,8,62.5,62.42
+SEN,2019,Senegal,MCV1,89,559215,Western Africa,8,62.5,62.42
+SEN,2020,Senegal,DTPCV1,93,575218,Western Africa,9,63,62.83
+SEN,2020,Senegal,DTPCV3,91,575218,Western Africa,9,63,62.83
+SEN,2020,Senegal,MCV1,88,575218,Western Africa,9,63,62.83
+SEN,2021,Senegal,DTPCV1,87,589156,Western Africa,10,62.4,62.24
+SEN,2021,Senegal,DTPCV3,85,589156,Western Africa,10,62.4,62.24
+SEN,2021,Senegal,MCV1,87,589156,Western Africa,10,62.4,62.24
+SLE,2012,Sierra Leone,DTPCV1,98,220013,Western Africa,1,47.9,48.45
+SLE,2012,Sierra Leone,DTPCV3,91,220013,Western Africa,1,47.9,48.45
+SLE,2012,Sierra Leone,MCV1,86,220013,Western Africa,1,47.9,48.45
+SLE,2013,Sierra Leone,DTPCV1,98,225573,Western Africa,2,47.7,48.19
+SLE,2013,Sierra Leone,DTPCV3,92,225573,Western Africa,2,47.7,48.19
+SLE,2013,Sierra Leone,MCV1,85,225573,Western Africa,2,47.7,48.19
+SLE,2014,Sierra Leone,DTPCV1,88,231333,Western Africa,3,47.2,47.44
+SLE,2014,Sierra Leone,DTPCV3,83,231333,Western Africa,3,47.2,47.44
+SLE,2014,Sierra Leone,MCV1,80,231333,Western Africa,3,47.2,47.44
+SLE,2015,Sierra Leone,DTPCV1,95,258625,Western Africa,4,47.9,48.16
+SLE,2015,Sierra Leone,DTPCV3,86,258625,Western Africa,4,47.9,48.16
+SLE,2015,Sierra Leone,MCV1,78,258625,Western Africa,4,47.9,48.16
+SLE,2016,Sierra Leone,DTPCV1,97,264832,Western Africa,5,49,49.19
+SLE,2016,Sierra Leone,DTPCV3,84,264832,Western Africa,5,49,49.19
+SLE,2016,Sierra Leone,MCV1,85,264832,Western Africa,5,49,49.19
+SLE,2017,Sierra Leone,DTPCV1,98,270098,Western Africa,6,49.2,49.44
+SLE,2017,Sierra Leone,DTPCV3,90,270098,Western Africa,6,49.2,49.44
+SLE,2017,Sierra Leone,MCV1,80,270098,Western Africa,6,49.2,49.44
+SLE,2018,Sierra Leone,DTPCV1,97,230557,Western Africa,7,50.9,51.15
+SLE,2018,Sierra Leone,DTPCV3,93,230557,Western Africa,7,50.9,51.15
+SLE,2018,Sierra Leone,MCV1,87,230557,Western Africa,7,50.9,51.15
+SLE,2019,Sierra Leone,DTPCV1,95,286981,Western Africa,8,51.2,51.33
+SLE,2019,Sierra Leone,DTPCV3,95,286981,Western Africa,8,51.2,51.33
+SLE,2019,Sierra Leone,MCV1,93,286981,Western Africa,8,51.2,51.33
+SLE,2020,Sierra Leone,DTPCV1,93,291611,Western Africa,9,52,52.05
+SLE,2020,Sierra Leone,DTPCV3,91,291611,Western Africa,9,52,52.05
+SLE,2020,Sierra Leone,MCV1,87,291611,Western Africa,9,52,52.05
+SLE,2021,Sierra Leone,DTPCV1,94,307022,Western Africa,10,52.2,52.19
+SLE,2021,Sierra Leone,DTPCV3,92,307022,Western Africa,10,52.2,52.19
+SLE,2021,Sierra Leone,MCV1,87,307022,Western Africa,10,52.2,52.19
+SOM,2012,Somalia,DTPCV1,52,329231,Eastern Africa,1,17.9,17.08
+SOM,2012,Somalia,DTPCV3,42,329231,Eastern Africa,1,17.9,17.08
+SOM,2012,Somalia,MCV1,46,329231,Eastern Africa,1,17.9,17.08
+SOM,2013,Somalia,DTPCV1,52,341130,Eastern Africa,2,18.4,17.71
+SOM,2013,Somalia,DTPCV3,42,341130,Eastern Africa,2,18.4,17.71
+SOM,2013,Somalia,MCV1,46,341130,Eastern Africa,2,18.4,17.71
+SOM,2014,Somalia,DTPCV1,52,342557,Eastern Africa,3,19,18.22
+SOM,2014,Somalia,DTPCV3,42,342557,Eastern Africa,3,19,18.22
+SOM,2014,Somalia,MCV1,46,342557,Eastern Africa,3,19,18.22
+SOM,2015,Somalia,DTPCV1,52,484423,Eastern Africa,4,19.4,18.63
+SOM,2015,Somalia,DTPCV3,42,484423,Eastern Africa,4,19.4,18.63
+SOM,2015,Somalia,MCV1,46,484423,Eastern Africa,4,19.4,18.63
+SOM,2016,Somalia,DTPCV1,52,469827,Eastern Africa,5,19.3,18.51
+SOM,2016,Somalia,DTPCV3,42,469827,Eastern Africa,5,19.3,18.51
+SOM,2016,Somalia,MCV1,46,469827,Eastern Africa,5,19.3,18.51
+SOM,2017,Somalia,DTPCV1,52,518927,Eastern Africa,6,21.9,21.13
+SOM,2017,Somalia,DTPCV3,42,518927,Eastern Africa,6,21.9,21.13
+SOM,2017,Somalia,MCV1,46,518927,Eastern Africa,6,21.9,21.13
+SOM,2018,Somalia,DTPCV1,52,588110,Eastern Africa,7,21.3,20.5
+SOM,2018,Somalia,DTPCV3,42,588110,Eastern Africa,7,21.3,20.5
+SOM,2018,Somalia,MCV1,46,588110,Eastern Africa,7,21.3,20.5
+SOM,2019,Somalia,DTPCV1,52,602195,Eastern Africa,8,22,21.14
+SOM,2019,Somalia,DTPCV3,42,602195,Eastern Africa,8,22,21.14
+SOM,2019,Somalia,MCV1,46,602195,Eastern Africa,8,22,21.14
+SOM,2020,Somalia,DTPCV1,52,620261,Eastern Africa,9,22.4,21.5
+SOM,2020,Somalia,DTPCV3,42,620261,Eastern Africa,9,22.4,21.5
+SOM,2020,Somalia,MCV1,46,620261,Eastern Africa,9,22.4,21.5
+SOM,2021,Somalia,DTPCV1,52,638869,Eastern Africa,10,23.2,22.32
+SOM,2021,Somalia,DTPCV3,42,638869,Eastern Africa,10,23.2,22.32
+SOM,2021,Somalia,MCV1,46,638869,Eastern Africa,10,23.2,22.32
+SSD,2012,South Sudan,DTPCV1,76,375233,Eastern Africa,1,24.2,23.35
+SSD,2012,South Sudan,DTPCV3,63,375233,Eastern Africa,1,24.2,23.35
+SSD,2012,South Sudan,MCV1,59,375233,Eastern Africa,1,24.2,23.35
+SSD,2013,South Sudan,DTPCV1,67,402173,Eastern Africa,2,21.8,20.9
+SSD,2013,South Sudan,DTPCV3,53,402173,Eastern Africa,2,21.8,20.9
+SSD,2013,South Sudan,MCV1,57,402173,Eastern Africa,2,21.8,20.9
+SSD,2014,South Sudan,DTPCV1,62,414238.098,Eastern Africa,3,19.4,18.33
+SSD,2014,South Sudan,DTPCV3,50,414238.098,Eastern Africa,3,19.4,18.33
+SSD,2014,South Sudan,MCV1,54,414238.098,Eastern Africa,3,19.4,18.33
+SSD,2015,South Sudan,DTPCV1,55,426665,Eastern Africa,4,18.9,17.69
+SSD,2015,South Sudan,DTPCV3,46,426665,Eastern Africa,4,18.9,17.69
+SSD,2015,South Sudan,MCV1,52,426665,Eastern Africa,4,18.9,17.69
+SSD,2016,South Sudan,DTPCV1,51,439465,Eastern Africa,5,18.4,17.19
+SSD,2016,South Sudan,DTPCV3,45,439465,Eastern Africa,5,18.4,17.19
+SSD,2016,South Sudan,MCV1,51,439465,Eastern Africa,5,18.4,17.19
+SSD,2017,South Sudan,DTPCV1,59,452649,Eastern Africa,6,18.6,17.41
+SSD,2017,South Sudan,DTPCV3,52,452649,Eastern Africa,6,18.6,17.41
+SSD,2017,South Sudan,MCV1,56,452649,Eastern Africa,6,18.6,17.41
+SSD,2018,South Sudan,DTPCV1,67,466745,Eastern Africa,7,18.3,17.02
+SSD,2018,South Sudan,DTPCV3,59,466745,Eastern Africa,7,18.3,17.02
+SSD,2018,South Sudan,MCV1,61,466745,Eastern Africa,7,18.3,17.02
+SSD,2019,South Sudan,DTPCV1,68,599605,Eastern Africa,8,18.6,17.48
+SSD,2019,South Sudan,DTPCV3,61,599605,Eastern Africa,8,18.6,17.48
+SSD,2019,South Sudan,MCV1,65,599605,Eastern Africa,8,18.6,17.48
+SSD,2020,South Sudan,DTPCV1,71,592977,Eastern Africa,9,17.9,16.63
+SSD,2020,South Sudan,DTPCV3,67,592977,Eastern Africa,9,17.9,16.63
+SSD,2020,South Sudan,MCV1,69,592977,Eastern Africa,9,17.9,16.63
+SSD,2021,South Sudan,DTPCV1,73,488613,Eastern Africa,10,18.5,17.26
+SSD,2021,South Sudan,DTPCV3,69,488613,Eastern Africa,10,18.5,17.26
+SSD,2021,South Sudan,MCV1,74,488613,Eastern Africa,10,18.5,17.26
+STP,2012,Sao Tome and Principe,DTPCV1,98,5633,Middle Africa,1,57.9,57.64
+STP,2012,Sao Tome and Principe,DTPCV3,96,5633,Middle Africa,1,57.9,57.64
+STP,2012,Sao Tome and Principe,MCV1,92,5633,Middle Africa,1,57.9,57.64
+STP,2013,Sao Tome and Principe,DTPCV1,99,5725,Middle Africa,2,58.2,57.95
+STP,2013,Sao Tome and Principe,DTPCV3,97,5725,Middle Africa,2,58.2,57.95
+STP,2013,Sao Tome and Principe,MCV1,91,5725,Middle Africa,2,58.2,57.95
+STP,2014,Sao Tome and Principe,DTPCV1,98,5817,Middle Africa,3,58.4,58.17
+STP,2014,Sao Tome and Principe,DTPCV3,95,5817,Middle Africa,3,58.4,58.17
+STP,2014,Sao Tome and Principe,MCV1,92,5817,Middle Africa,3,58.4,58.17
+STP,2015,Sao Tome and Principe,DTPCV1,98,5505,Middle Africa,4,57.9,57.58
+STP,2015,Sao Tome and Principe,DTPCV3,96,5505,Middle Africa,4,57.9,57.58
+STP,2015,Sao Tome and Principe,MCV1,93,5505,Middle Africa,4,57.9,57.58
+STP,2016,Sao Tome and Principe,DTPCV1,97,5618,Middle Africa,5,58.5,58.24
+STP,2016,Sao Tome and Principe,DTPCV3,96,5618,Middle Africa,5,58.5,58.24
+STP,2016,Sao Tome and Principe,MCV1,93,5618,Middle Africa,5,58.5,58.24
+STP,2017,Sao Tome and Principe,DTPCV1,96,5734,Middle Africa,6,59,58.75
+STP,2017,Sao Tome and Principe,DTPCV3,95,5734,Middle Africa,6,59,58.75
+STP,2017,Sao Tome and Principe,MCV1,90,5734,Middle Africa,6,59,58.75
+STP,2018,Sao Tome and Principe,DTPCV1,97,5448,Middle Africa,7,58.9,58.65
+STP,2018,Sao Tome and Principe,DTPCV3,95,5448,Middle Africa,7,58.9,58.65
+STP,2018,Sao Tome and Principe,MCV1,95,5448,Middle Africa,7,58.9,58.65
+STP,2019,Sao Tome and Principe,DTPCV1,97,5561,Middle Africa,8,59.9,59.72
+STP,2019,Sao Tome and Principe,DTPCV3,95,5561,Middle Africa,8,59.9,59.72
+STP,2019,Sao Tome and Principe,MCV1,95,5561,Middle Africa,8,59.9,59.72
+STP,2020,Sao Tome and Principe,DTPCV1,97,5676,Middle Africa,9,59.9,59.67
+STP,2020,Sao Tome and Principe,DTPCV3,96,5676,Middle Africa,9,59.9,59.67
+STP,2020,Sao Tome and Principe,MCV1,86,5676,Middle Africa,9,59.9,59.67
+STP,2021,Sao Tome and Principe,DTPCV1,97,5794,Middle Africa,10,59.5,59.33
+STP,2021,Sao Tome and Principe,DTPCV3,97,5794,Middle Africa,10,59.5,59.33
+STP,2021,Sao Tome and Principe,MCV1,77,5794,Middle Africa,10,59.5,59.33
+SWZ,2012,Eswatini,DTPCV1,97,31392,Southern Africa,1,43,42.26
+SWZ,2012,Eswatini,DTPCV3,95,31392,Southern Africa,1,43,42.26
+SWZ,2012,Eswatini,MCV1,88,31392,Southern Africa,1,43,42.26
+SWZ,2013,Eswatini,DTPCV1,99,31675,Southern Africa,2,43.6,42.83
+SWZ,2013,Eswatini,DTPCV3,98,31675,Southern Africa,2,43.6,42.83
+SWZ,2013,Eswatini,MCV1,96,31675,Southern Africa,2,43.6,42.83
+SWZ,2014,Eswatini,DTPCV1,99,31896,Southern Africa,3,43.6,42.84
+SWZ,2014,Eswatini,DTPCV3,98,31896,Southern Africa,3,43.6,42.84
+SWZ,2014,Eswatini,MCV1,97,31896,Southern Africa,3,43.6,42.84
+SWZ,2015,Eswatini,DTPCV1,96,32185,Southern Africa,4,43.7,42.82
+SWZ,2015,Eswatini,DTPCV3,90,32185,Southern Africa,4,43.7,42.82
+SWZ,2015,Eswatini,MCV1,89,32185,Southern Africa,4,43.7,42.82
+SWZ,2016,Eswatini,DTPCV1,96,32478,Southern Africa,5,42.9,42.03
+SWZ,2016,Eswatini,DTPCV3,90,32478,Southern Africa,5,42.9,42.03
+SWZ,2016,Eswatini,MCV1,89,32478,Southern Africa,5,42.9,42.03
+SWZ,2017,Eswatini,DTPCV1,96,31704,Southern Africa,6,44,43.07
+SWZ,2017,Eswatini,DTPCV3,90,31704,Southern Africa,6,44,43.07
+SWZ,2017,Eswatini,MCV1,89,31704,Southern Africa,6,44,43.07
+SWZ,2018,Eswatini,DTPCV1,96,32568,Southern Africa,7,44.8,43.89
+SWZ,2018,Eswatini,DTPCV3,90,32568,Southern Africa,7,44.8,43.89
+SWZ,2018,Eswatini,MCV1,85,32568,Southern Africa,7,44.8,43.89
+SWZ,2019,Eswatini,DTPCV1,96,31037,Southern Africa,8,45.4,44.51
+SWZ,2019,Eswatini,DTPCV3,90,31037,Southern Africa,8,45.4,44.51
+SWZ,2019,Eswatini,MCV1,81,31037,Southern Africa,8,45.4,44.51
+SWZ,2020,Eswatini,DTPCV1,87,31044,Southern Africa,9,45.5,44.61
+SWZ,2020,Eswatini,DTPCV3,83,31044,Southern Africa,9,45.5,44.61
+SWZ,2020,Eswatini,MCV1,76,31044,Southern Africa,9,45.5,44.61
+SWZ,2021,Eswatini,DTPCV1,86,30170,Southern Africa,10,43.9,42.86
+SWZ,2021,Eswatini,DTPCV3,77,30170,Southern Africa,10,43.9,42.86
+SWZ,2021,Eswatini,MCV1,80,30170,Southern Africa,10,43.9,42.86
+SYC,2012,Seychelles,DTPCV1,98,1662,Eastern Africa,1,64.1,63.74
+SYC,2012,Seychelles,DTPCV3,98,1398,Eastern Africa,1,64.1,63.74
+SYC,2012,Seychelles,MCV1,98,1558,Eastern Africa,1,64.1,63.74
+SYC,2013,Seychelles,DTPCV1,99,1555,Eastern Africa,2,64.6,64.34
+SYC,2013,Seychelles,DTPCV3,98,1612,Eastern Africa,2,64.6,64.34
+SYC,2013,Seychelles,MCV1,97,1645,Eastern Africa,2,64.6,64.34
+SYC,2014,Seychelles,DTPCV1,99,1540,Eastern Africa,3,63.3,62.93
+SYC,2014,Seychelles,DTPCV3,99,1540,Eastern Africa,3,63.3,62.93
+SYC,2014,Seychelles,MCV1,99,1537,Eastern Africa,3,63.3,62.93
+SYC,2015,Seychelles,DTPCV1,99,1575,Eastern Africa,4,65.4,65.09
+SYC,2015,Seychelles,DTPCV3,97,1571,Eastern Africa,4,65.4,65.09
+SYC,2015,Seychelles,MCV1,98,1540,Eastern Africa,4,65.4,65.09
+SYC,2016,Seychelles,DTPCV1,98,1623,Eastern Africa,5,66.1,65.83
+SYC,2016,Seychelles,DTPCV3,96,1622,Eastern Africa,5,66.1,65.83
+SYC,2016,Seychelles,MCV1,97,1566,Eastern Africa,5,66.1,65.83
+SYC,2017,Seychelles,DTPCV1,98,1633,Eastern Africa,6,66.5,66.29
+SYC,2017,Seychelles,DTPCV3,97,1633,Eastern Africa,6,66.5,66.29
+SYC,2017,Seychelles,MCV1,99,1660,Eastern Africa,6,66.5,66.29
+SYC,2018,Seychelles,DTPCV1,99,1619,Eastern Africa,7,70.4,70.33
+SYC,2018,Seychelles,DTPCV3,99,1619,Eastern Africa,7,70.4,70.33
+SYC,2018,Seychelles,MCV1,96,1651,Eastern Africa,7,70.4,70.33
+SYC,2019,Seychelles,DTPCV1,99,1578,Eastern Africa,8,71.6,71.66
+SYC,2019,Seychelles,DTPCV3,99,1578,Eastern Africa,8,71.6,71.66
+SYC,2019,Seychelles,MCV1,99,1651,Eastern Africa,8,71.6,71.66
+SYC,2020,Seychelles,DTPCV1,99,1554,Eastern Africa,9,72.9,73.01
+SYC,2020,Seychelles,DTPCV3,97,1554,Eastern Africa,9,72.9,73.01
+SYC,2020,Seychelles,MCV1,97,1605,Eastern Africa,9,72.9,73.01
+SYC,2021,Seychelles,DTPCV1,99,1660,Eastern Africa,10,73.4,73.58
+SYC,2021,Seychelles,DTPCV3,94,1660,Eastern Africa,10,73.4,73.58
+SYC,2021,Seychelles,MCV1,94,1554,Eastern Africa,10,73.4,73.58
+TCD,2012,Chad,DTPCV1,57,457872,Middle Africa,1,31.7,31.62
+TCD,2012,Chad,DTPCV3,40,457872,Middle Africa,1,31.7,31.62
+TCD,2012,Chad,MCV1,63,457872,Middle Africa,1,31.7,31.62
+TCD,2013,Chad,DTPCV1,58,495707,Middle Africa,2,31.4,31.23
+TCD,2013,Chad,DTPCV3,39,495707,Middle Africa,2,31.4,31.23
+TCD,2013,Chad,MCV1,57,495707,Middle Africa,2,31.4,31.23
+TCD,2014,Chad,DTPCV1,63,485141,Middle Africa,3,32.6,32.49
+TCD,2014,Chad,DTPCV3,36,485141,Middle Africa,3,32.6,32.49
+TCD,2014,Chad,MCV1,45,485141,Middle Africa,3,32.6,32.49
+TCD,2015,Chad,DTPCV1,59,502121,Middle Africa,4,33.1,32.94
+TCD,2015,Chad,DTPCV3,42,502121,Middle Africa,4,33.1,32.94
+TCD,2015,Chad,MCV1,46,502121,Middle Africa,4,33.1,32.94
+TCD,2016,Chad,DTPCV1,55,523633,Middle Africa,5,33.1,32.97
+TCD,2016,Chad,DTPCV3,41,523633,Middle Africa,5,33.1,32.97
+TCD,2016,Chad,MCV1,37,523633,Middle Africa,5,33.1,32.97
+TCD,2017,Chad,DTPCV1,55,694528,Middle Africa,6,34.1,33.97
+TCD,2017,Chad,DTPCV3,41,694528,Middle Africa,6,34.1,33.97
+TCD,2017,Chad,MCV1,37,694528,Middle Africa,6,34.1,33.97
+TCD,2018,Chad,DTPCV1,61,721246,Middle Africa,7,35.3,35.23
+TCD,2018,Chad,DTPCV3,46,721246,Middle Africa,7,35.3,35.23
+TCD,2018,Chad,MCV1,42,721246,Middle Africa,7,35.3,35.23
+TCD,2019,Chad,DTPCV1,65,761445,Middle Africa,8,35.6,35.44
+TCD,2019,Chad,DTPCV3,50,761445,Middle Africa,8,35.6,35.44
+TCD,2019,Chad,MCV1,41,761445,Middle Africa,8,35.6,35.44
+TCD,2020,Chad,DTPCV1,69,742066,Middle Africa,9,35.2,34.83
+TCD,2020,Chad,DTPCV3,52,742066,Middle Africa,9,35.2,34.83
+TCD,2020,Chad,MCV1,47,742066,Middle Africa,9,35.2,34.83
+TCD,2021,Chad,DTPCV1,73,764271,Middle Africa,10,34.5,34.18
+TCD,2021,Chad,DTPCV3,58,764271,Middle Africa,10,34.5,34.18
+TCD,2021,Chad,MCV1,55,764271,Middle Africa,10,34.5,34.18
+TGO,2012,Togo,DTPCV1,94,268573,Western Africa,1,46.7,46.73
+TGO,2012,Togo,DTPCV3,84,268573,Western Africa,1,46.7,46.73
+TGO,2012,Togo,MCV1,72,268573,Western Africa,1,46.7,46.73
+TGO,2013,Togo,DTPCV1,94,274489,Western Africa,2,46.9,46.93
+TGO,2013,Togo,DTPCV3,84,274489,Western Africa,2,46.9,46.93
+TGO,2013,Togo,MCV1,72,274489,Western Africa,2,46.9,46.93
+TGO,2014,Togo,DTPCV1,89,282574,Western Africa,3,47.6,47.55
+TGO,2014,Togo,DTPCV3,84,282574,Western Africa,3,47.6,47.55
+TGO,2014,Togo,MCV1,77,282574,Western Africa,3,47.6,47.55
+TGO,2015,Togo,DTPCV1,88,289430,Western Africa,4,49,49.05
+TGO,2015,Togo,DTPCV3,82,289430,Western Africa,4,49,49.05
+TGO,2015,Togo,MCV1,75,289430,Western Africa,4,49,49.05
+TGO,2016,Togo,DTPCV1,89,294319,Western Africa,5,49.9,49.91
+TGO,2016,Togo,DTPCV3,82,294319,Western Africa,5,49.9,49.91
+TGO,2016,Togo,MCV1,73,294319,Western Africa,5,49.9,49.91
+TGO,2017,Togo,DTPCV1,88,301509,Western Africa,6,49.7,49.69
+TGO,2017,Togo,DTPCV3,83,301509,Western Africa,6,49.7,49.69
+TGO,2017,Togo,MCV1,77,301509,Western Africa,6,49.7,49.69
+TGO,2018,Togo,DTPCV1,88,308775,Western Africa,7,49.2,49.25
+TGO,2018,Togo,DTPCV3,81,308775,Western Africa,7,49.2,49.25
+TGO,2018,Togo,MCV1,71,308775,Western Africa,7,49.2,49.25
+TGO,2019,Togo,DTPCV1,90,316877,Western Africa,8,49.7,49.59
+TGO,2019,Togo,DTPCV3,84,316877,Western Africa,8,49.7,49.59
+TGO,2019,Togo,MCV1,75,316877,Western Africa,8,49.7,49.59
+TGO,2020,Togo,DTPCV1,87,323540,Western Africa,9,51,50.83
+TGO,2020,Togo,DTPCV3,82,323540,Western Africa,9,51,50.83
+TGO,2020,Togo,MCV1,69,323540,Western Africa,9,51,50.83
+TGO,2021,Togo,DTPCV1,88,330878,Western Africa,10,50.5,50.35
+TGO,2021,Togo,DTPCV3,83,330878,Western Africa,10,50.5,50.35
+TGO,2021,Togo,MCV1,70,330878,Western Africa,10,50.5,50.35
+TUN,2012,Tunisia,DTPCV1,99,201734,Northern Africa,1,67.8,67.28
+TUN,2012,Tunisia,DTPCV3,97,201734,Northern Africa,1,67.8,67.28
+TUN,2012,Tunisia,MCV1,96,196576,Northern Africa,1,67.8,67.28
+TUN,2013,Tunisia,DTPCV1,99,207480,Northern Africa,2,67.4,66.88
+TUN,2013,Tunisia,DTPCV3,98,207480,Northern Africa,2,67.4,66.88
+TUN,2013,Tunisia,MCV1,94,201734,Northern Africa,2,67.4,66.88
+TUN,2014,Tunisia,DTPCV1,98,216317,Northern Africa,3,68.8,68.42
+TUN,2014,Tunisia,DTPCV3,98,216317,Northern Africa,3,68.8,68.42
+TUN,2014,Tunisia,MCV1,98,210660,Northern Africa,3,68.8,68.42
+TUN,2015,Tunisia,DTPCV1,98,221751,Northern Africa,4,68.4,67.96
+TUN,2015,Tunisia,DTPCV3,98,221751,Northern Africa,4,68.4,67.96
+TUN,2015,Tunisia,MCV1,98,216317,Northern Africa,4,68.4,67.96
+TUN,2016,Tunisia,DTPCV1,99,217039,Northern Africa,5,68.6,68.23
+TUN,2016,Tunisia,DTPCV3,98,217039,Northern Africa,5,68.6,68.23
+TUN,2016,Tunisia,MCV1,96,217565,Northern Africa,5,68.6,68.23
+TUN,2017,Tunisia,DTPCV1,99,216441,Northern Africa,6,69.3,68.98
+TUN,2017,Tunisia,DTPCV3,98,216441,Northern Africa,6,69.3,68.98
+TUN,2017,Tunisia,MCV1,98,215662,Northern Africa,6,69.3,68.98
+TUN,2018,Tunisia,DTPCV1,98,208133,Northern Africa,7,70.9,70.66
+TUN,2018,Tunisia,DTPCV3,97,208133,Northern Africa,7,70.9,70.66
+TUN,2018,Tunisia,MCV1,96,208080,Northern Africa,7,70.9,70.66
+TUN,2019,Tunisia,DTPCV1,98,199562,Northern Africa,8,72,71.66
+TUN,2019,Tunisia,DTPCV3,98,199562,Northern Africa,8,72,71.66
+TUN,2019,Tunisia,MCV1,98,198413,Northern Africa,8,72,71.66
+TUN,2020,Tunisia,DTPCV1,99,182327,Northern Africa,9,72.9,72.55
+TUN,2020,Tunisia,DTPCV3,97,182327,Northern Africa,9,72.9,72.55
+TUN,2020,Tunisia,MCV1,98,192356,Northern Africa,9,72.9,72.55
+TUN,2021,Tunisia,DTPCV1,99,171287,Northern Africa,10,70.9,70.55
+TUN,2021,Tunisia,DTPCV3,97,171287,Northern Africa,10,70.9,70.55
+TUN,2021,Tunisia,MCV1,95,179537,Northern Africa,10,70.9,70.55
+TZA,2012,United Republic of Tanzania,DTPCV1,99,1743414,Eastern Africa,1,52.8,52.53
+TZA,2012,United Republic of Tanzania,DTPCV3,92,1743414,Eastern Africa,1,52.8,52.53
+TZA,2012,United Republic of Tanzania,MCV1,97,1743414,Eastern Africa,1,52.8,52.53
+TZA,2013,United Republic of Tanzania,DTPCV1,99,1767358,Eastern Africa,2,52.5,52.22
+TZA,2013,United Republic of Tanzania,DTPCV3,91,1767358,Eastern Africa,2,52.5,52.22
+TZA,2013,United Republic of Tanzania,MCV1,99,1767358,Eastern Africa,2,52.5,52.22
+TZA,2014,United Republic of Tanzania,DTPCV1,99,1733967,Eastern Africa,3,52.8,52.43
+TZA,2014,United Republic of Tanzania,DTPCV3,97,1733967,Eastern Africa,3,52.8,52.43
+TZA,2014,United Republic of Tanzania,MCV1,97,1733967,Eastern Africa,3,52.8,52.43
+TZA,2015,United Republic of Tanzania,DTPCV1,97,1810396,Eastern Africa,4,53.8,53.45
+TZA,2015,United Republic of Tanzania,DTPCV3,96,1810396,Eastern Africa,4,53.8,53.45
+TZA,2015,United Republic of Tanzania,MCV1,95,1810396,Eastern Africa,4,53.8,53.45
+TZA,2016,United Republic of Tanzania,DTPCV1,95,1921328,Eastern Africa,5,53.8,53.36
+TZA,2016,United Republic of Tanzania,DTPCV3,92,1921328,Eastern Africa,5,53.8,53.36
+TZA,2016,United Republic of Tanzania,MCV1,83,1921328,Eastern Africa,5,53.8,53.36
+TZA,2017,United Republic of Tanzania,DTPCV1,93,1929690,Eastern Africa,6,53.1,52.64
+TZA,2017,United Republic of Tanzania,DTPCV3,90,1929690,Eastern Africa,6,53.1,52.64
+TZA,2017,United Republic of Tanzania,MCV1,90,1929690,Eastern Africa,6,53.1,52.64
+TZA,2018,United Republic of Tanzania,DTPCV1,91,2013744,Eastern Africa,7,52.5,51.99
+TZA,2018,United Republic of Tanzania,DTPCV3,89,2013744,Eastern Africa,7,52.5,51.99
+TZA,2018,United Republic of Tanzania,MCV1,88,2013744,Eastern Africa,7,52.5,51.99
+TZA,2019,United Republic of Tanzania,DTPCV1,91,2061343,Eastern Africa,8,53.1,52.52
+TZA,2019,United Republic of Tanzania,DTPCV3,89,2061343,Eastern Africa,8,53.1,52.52
+TZA,2019,United Republic of Tanzania,MCV1,88,2061343,Eastern Africa,8,53.1,52.52
+TZA,2020,United Republic of Tanzania,DTPCV1,88,2116379,Eastern Africa,9,52.9,52.22
+TZA,2020,United Republic of Tanzania,DTPCV3,86,2116379,Eastern Africa,9,52.9,52.22
+TZA,2020,United Republic of Tanzania,MCV1,84,2116379,Eastern Africa,9,52.9,52.22
+TZA,2021,United Republic of Tanzania,DTPCV1,83,2176804,Eastern Africa,10,53.4,52.75
+TZA,2021,United Republic of Tanzania,DTPCV3,81,2176804,Eastern Africa,10,53.4,52.75
+TZA,2021,United Republic of Tanzania,MCV1,77,2176804,Eastern Africa,10,53.4,52.75
+UGA,2012,Uganda,DTPCV1,92,1467752,Eastern Africa,1,49.7,49.38
+UGA,2012,Uganda,DTPCV3,83,1467752,Eastern Africa,1,49.7,49.38
+UGA,2012,Uganda,MCV1,80,1467752,Eastern Africa,1,49.7,49.38
+UGA,2013,Uganda,DTPCV1,92,1513147,Eastern Africa,2,49.1,48.81
+UGA,2013,Uganda,DTPCV3,84,1513147,Eastern Africa,2,49.1,48.81
+UGA,2013,Uganda,MCV1,83,1513147,Eastern Africa,2,49.1,48.81
+UGA,2014,Uganda,DTPCV1,93,1558542,Eastern Africa,3,49,48.65
+UGA,2014,Uganda,DTPCV3,85,1558542,Eastern Africa,3,49,48.65
+UGA,2014,Uganda,MCV1,85,1558542,Eastern Africa,3,49,48.65
+UGA,2015,Uganda,DTPCV1,97,1547740,Eastern Africa,4,49.6,49.19
+UGA,2015,Uganda,DTPCV3,89,1547740,Eastern Africa,4,49.6,49.19
+UGA,2015,Uganda,MCV1,79,1547740,Eastern Africa,4,49.6,49.19
+UGA,2016,Uganda,DTPCV1,99,1584239,Eastern Africa,5,49.3,48.85
+UGA,2016,Uganda,DTPCV3,93,1584239,Eastern Africa,5,49.3,48.85
+UGA,2016,Uganda,MCV1,79,1584239,Eastern Africa,5,49.3,48.85
+UGA,2017,Uganda,DTPCV1,99,1619973,Eastern Africa,6,49.5,49.04
+UGA,2017,Uganda,DTPCV3,94,1619973,Eastern Africa,6,49.5,49.04
+UGA,2017,Uganda,MCV1,83,1619973,Eastern Africa,6,49.5,49.04
+UGA,2018,Uganda,DTPCV1,97,1669393,Eastern Africa,7,49.5,48.98
+UGA,2018,Uganda,DTPCV3,93,1669393,Eastern Africa,7,49.5,48.98
+UGA,2018,Uganda,MCV1,86,1669393,Eastern Africa,7,49.5,48.98
+UGA,2019,Uganda,DTPCV1,96,1733243,Eastern Africa,8,49.3,48.63
+UGA,2019,Uganda,DTPCV3,93,1733243,Eastern Africa,8,49.3,48.63
+UGA,2019,Uganda,MCV1,87,1733243,Eastern Africa,8,49.3,48.63
+UGA,2020,Uganda,DTPCV1,94,1788095,Eastern Africa,9,48.6,47.72
+UGA,2020,Uganda,DTPCV3,89,1788095,Eastern Africa,9,48.6,47.72
+UGA,2020,Uganda,MCV1,89,1788095,Eastern Africa,9,48.6,47.72
+UGA,2021,Uganda,DTPCV1,97,1840768,Eastern Africa,10,47.5,46.62
+UGA,2021,Uganda,DTPCV3,91,1840768,Eastern Africa,10,47.5,46.62
+UGA,2021,Uganda,MCV1,90,1840768,Eastern Africa,10,47.5,46.62
+ZAF,2012,South Africa,DTPCV1,72,1092604,Southern Africa,1,66.8,66.61
+ZAF,2012,South Africa,DTPCV3,71,1092604,Southern Africa,1,66.8,66.61
+ZAF,2012,South Africa,MCV1,79,1092604,Southern Africa,1,66.8,66.61
+ZAF,2013,South Africa,DTPCV1,81,1085178,Southern Africa,2,67.1,66.92
+ZAF,2013,South Africa,DTPCV3,81,1085178,Southern Africa,2,67.1,66.92
+ZAF,2013,South Africa,MCV1,78,1085178,Southern Africa,2,67.1,66.92
+ZAF,2014,South Africa,DTPCV1,88,1059660,Southern Africa,3,66.8,66.56
+ZAF,2014,South Africa,DTPCV3,85,1059660,Southern Africa,3,66.8,66.56
+ZAF,2014,South Africa,MCV1,84,1059660,Southern Africa,3,66.8,66.56
+ZAF,2015,South Africa,DTPCV1,91,1022116,Southern Africa,4,66.5,66.17
+ZAF,2015,South Africa,DTPCV3,85,1022116,Southern Africa,4,66.5,66.17
+ZAF,2015,South Africa,MCV1,86,1022111,Southern Africa,4,66.5,66.17
+ZAF,2016,South Africa,DTPCV1,88,985944,Southern Africa,5,66.8,66.46
+ZAF,2016,South Africa,DTPCV3,85,985944,Southern Africa,5,66.8,66.46
+ZAF,2016,South Africa,MCV1,84,985944,Southern Africa,5,66.8,66.46
+ZAF,2017,South Africa,DTPCV1,85,1139236,Southern Africa,6,66.8,66.48
+ZAF,2017,South Africa,DTPCV3,84,1139236,Southern Africa,6,66.8,66.48
+ZAF,2017,South Africa,MCV1,81,1139236,Southern Africa,6,66.8,66.48
+ZAF,2018,South Africa,DTPCV1,84,1148881,Southern Africa,7,67.1,66.71
+ZAF,2018,South Africa,DTPCV3,82,1148881,Southern Africa,7,67.1,66.71
+ZAF,2018,South Africa,MCV1,81,1148881,Southern Africa,7,67.1,66.71
+ZAF,2019,South Africa,DTPCV1,87,1157702,Southern Africa,8,67.4,67.01
+ZAF,2019,South Africa,DTPCV3,85,1157702,Southern Africa,8,67.4,67.01
+ZAF,2019,South Africa,MCV1,83,1157702,Southern Africa,8,67.4,67.01
+ZAF,2020,South Africa,DTPCV1,88,1158118,Southern Africa,9,67.8,67.22
+ZAF,2020,South Africa,DTPCV3,84,1158118,Southern Africa,9,67.8,67.22
+ZAF,2020,South Africa,MCV1,84,1158118,Southern Africa,9,67.8,67.22
+ZAF,2021,South Africa,DTPCV1,91,1142769,Southern Africa,10,67.7,67.06
+ZAF,2021,South Africa,DTPCV3,86,1142769,Southern Africa,10,67.7,67.06
+ZAF,2021,South Africa,MCV1,87,1142769,Southern Africa,10,67.7,67.06
+ZMB,2012,Zambia,DTPCV1,86,629638,Eastern Africa,1,53.1,53.13
+ZMB,2012,Zambia,DTPCV3,78,629638,Eastern Africa,1,53.1,53.13
+ZMB,2012,Zambia,MCV1,82,629638,Eastern Africa,1,53.1,53.13
+ZMB,2013,Zambia,DTPCV1,86,660478,Eastern Africa,2,52.8,52.81
+ZMB,2013,Zambia,DTPCV3,79,660478,Eastern Africa,2,52.8,52.81
+ZMB,2013,Zambia,MCV1,80,660478,Eastern Africa,2,52.8,52.81
+ZMB,2014,Zambia,DTPCV1,96,614283,Eastern Africa,3,52.9,52.85
+ZMB,2014,Zambia,DTPCV3,86,614283,Eastern Africa,3,52.9,52.85
+ZMB,2014,Zambia,MCV1,85,614283,Eastern Africa,3,52.9,52.85
+ZMB,2015,Zambia,DTPCV1,97,632238,Eastern Africa,4,54.1,54.08
+ZMB,2015,Zambia,DTPCV3,90,632238,Eastern Africa,4,54.1,54.08
+ZMB,2015,Zambia,MCV1,90,632238,Eastern Africa,4,54.1,54.08
+ZMB,2016,Zambia,DTPCV1,96,642028,Eastern Africa,5,52.7,52.55
+ZMB,2016,Zambia,DTPCV3,95,642028,Eastern Africa,5,52.7,52.55
+ZMB,2016,Zambia,MCV1,97,642028,Eastern Africa,5,52.7,52.55
+ZMB,2017,Zambia,DTPCV1,95,656191,Eastern Africa,6,52.7,52.53
+ZMB,2017,Zambia,DTPCV3,94,656191,Eastern Africa,6,52.7,52.53
+ZMB,2017,Zambia,MCV1,96,656191,Eastern Africa,6,52.7,52.53
+ZMB,2018,Zambia,DTPCV1,94,675509,Eastern Africa,7,51.8,51.56
+ZMB,2018,Zambia,DTPCV3,90,675509,Eastern Africa,7,51.8,51.56
+ZMB,2018,Zambia,MCV1,94,675509,Eastern Africa,7,51.8,51.56
+ZMB,2019,Zambia,DTPCV1,94,695247,Eastern Africa,8,51.4,50.82
+ZMB,2019,Zambia,DTPCV3,88,695247,Eastern Africa,8,51.4,50.82
+ZMB,2019,Zambia,MCV1,93,695247,Eastern Africa,8,51.4,50.82
+ZMB,2020,Zambia,DTPCV1,88,735358,Eastern Africa,9,50.2,49.57
+ZMB,2020,Zambia,DTPCV3,84,735358,Eastern Africa,9,50.2,49.57
+ZMB,2020,Zambia,MCV1,96,735358,Eastern Africa,9,50.2,49.57
+ZMB,2021,Zambia,DTPCV1,94,764176,Eastern Africa,10,50,49.34
+ZMB,2021,Zambia,DTPCV3,91,764176,Eastern Africa,10,50,49.34
+ZMB,2021,Zambia,MCV1,90,764176,Eastern Africa,10,50,49.34
+ZWE,2012,Zimbabwe,DTPCV1,99,419642,Eastern Africa,1,45,44.22
+ZWE,2012,Zimbabwe,DTPCV3,95,419642,Eastern Africa,1,45,44.22
+ZWE,2012,Zimbabwe,MCV1,97,420056,Eastern Africa,1,45,44.22
+ZWE,2013,Zimbabwe,DTPCV1,98,433325,Eastern Africa,2,45.5,44.73
+ZWE,2013,Zimbabwe,DTPCV3,95,433325,Eastern Africa,2,45.5,44.73
+ZWE,2013,Zimbabwe,MCV1,93,433325,Eastern Africa,2,45.5,44.73
+ZWE,2014,Zimbabwe,DTPCV1,98,437184,Eastern Africa,3,45.7,44.86
+ZWE,2014,Zimbabwe,DTPCV3,91,437184,Eastern Africa,3,45.7,44.86
+ZWE,2014,Zimbabwe,MCV1,92,437184,Eastern Africa,3,45.7,44.86
+ZWE,2015,Zimbabwe,DTPCV1,94,441557,Eastern Africa,4,46.9,46.13
+ZWE,2015,Zimbabwe,DTPCV3,87,441557,Eastern Africa,4,46.9,46.13
+ZWE,2015,Zimbabwe,MCV1,86,441557,Eastern Africa,4,46.9,46.13
+ZWE,2016,Zimbabwe,DTPCV1,94,446013,Eastern Africa,5,47.3,46.53
+ZWE,2016,Zimbabwe,DTPCV3,90,446013,Eastern Africa,5,47.3,46.53
+ZWE,2016,Zimbabwe,MCV1,95,446013,Eastern Africa,5,47.3,46.53
+ZWE,2017,Zimbabwe,DTPCV1,94,450473,Eastern Africa,6,47.1,46.29
+ZWE,2017,Zimbabwe,DTPCV3,89,450473,Eastern Africa,6,47.1,46.29
+ZWE,2017,Zimbabwe,MCV1,90,450473,Eastern Africa,6,47.1,46.29
+ZWE,2018,Zimbabwe,DTPCV1,94,454978,Eastern Africa,7,48,47.17
+ZWE,2018,Zimbabwe,DTPCV3,89,454978,Eastern Africa,7,48,47.17
+ZWE,2018,Zimbabwe,MCV1,88,454978,Eastern Africa,7,48,47.17
+ZWE,2019,Zimbabwe,DTPCV1,94,459428,Eastern Africa,8,48,47.26
+ZWE,2019,Zimbabwe,DTPCV3,90,459428,Eastern Africa,8,48,47.26
+ZWE,2019,Zimbabwe,MCV1,85,459428,Eastern Africa,8,48,47.26
+ZWE,2020,Zimbabwe,DTPCV1,93,464123,Eastern Africa,9,48,47.24
+ZWE,2020,Zimbabwe,DTPCV3,86,464123,Eastern Africa,9,48,47.24
+ZWE,2020,Zimbabwe,MCV1,85,464123,Eastern Africa,9,48,47.24
+ZWE,2021,Zimbabwe,DTPCV1,93,529341,Eastern Africa,10,48.1,47.39
+ZWE,2021,Zimbabwe,DTPCV3,88,529341,Eastern Africa,10,48.1,47.39
+ZWE,2021,Zimbabwe,MCV1,88,529341,Eastern Africa,10,48.1,47.39
