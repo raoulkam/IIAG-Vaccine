@@ -1,0 +1,552 @@
+---
+title: "Tentative - Governance and routine immunization performance in 54 African countries: a 10-year (2012 - 2021) trend analysis using Linear Mixed Models"
+author:
+- name: Raoul Kamadjeu
+  url: https://github.com/raoulkam
+  affiliation: Department of Epidemiology, Graduate School of Public Health & Health
+    Policy,  City University of New York, New York City
+  affiliation_url: https://sph.cuny.edu/
+- name: Katarzyna Wyka
+  affiliation: Department of Epidemiology, Graduate School of Public Health & Health
+    Policy,  City University of New York, New York City
+  affiliation_url: https://sph.cuny.edu/
+- name: Elizabeth Kelvin
+  affiliation: Department of Epidemiology, Graduate School of Public Health & Health
+    Policy,  City University of New York, New York City
+  affiliation_url: https://sph.cuny.edu/
+date: "`r Sys.Date()`"
+output:
+  html_document:
+    toc: yes
+  pdf_document:
+    toc: yes
+  word_document:
+    
+    toc: yes
+---
+
+```{r, message=FALSE, warning=FALSE, echo=FALSE}
+
+#Libraries
+
+pacman::p_load(
+  plyr,
+  tidyverse,
+  readxl,
+  readr,
+  sqldf,
+  naniar,
+  lme4
+)
+
+
+```
+
+
+
+### Trajectory of immunization coverage by antigen and country over time.
+
+Figure 1: Trends (2012–2021) in immunization coverage over time, by countries and African region
+
+
+```{r, echo=FALSE}
+
+#Trend in coverage by antigen and country over time - line plot
+plot_spaghetti<-ggplot(Main_Analysis_Table,             
+               aes(x = YEAR,
+                   y = COVERAGE,
+                   color = NAME)) +  geom_line(show.legend = FALSE) +
+  facet_grid(ANTIGEN~REGION)+
+    theme_bw()+
+  theme(legend.position = "none")+
+geom_hline(yintercept=60, color="red", linewidth=0.25)+
+  geom_hline(yintercept=80, color="red", linewidth=0.25)+
+  geom_hline(yintercept=95, color="red", linewidth=0.25)+
+  xlab("Year (2012 - 2021)")+
+  ylab("Coverage (%)")+
+  scale_x_continuous(breaks = min(Main_Analysis_Table$YEAR):max(Main_Analysis_Table$YEAR))+
+  theme(axis.text.x = element_text(color = "black",angle = 90))
+plot_spaghetti
+
+```
+
+#### Trend analysis of immunization coverage.
+
+
+```{r, echo=FALSE}
+#Creating the function that will get the trends immunization coverage over time, for each of the antigens and country.
+#Generate the pure time series for each countries, we select only the variable name (country name), antigen, year and coverage
+All.data.ts<-Main_Analysis_Table%>% select(NAME, ANTIGEN, YEAR, COVERAGE)
+
+trend.lm <- function(x) {
+
+   l <- summary(lm(COVERAGE ~ YEAR, data =x))
+    slope <- round(l$coefficients[2, "Estimate"],3) ## avoids scientific notation - extra value of slope
+    slope.pct <- round(slope/mean(x$COVERAGE),3)## avoids scientific notation
+    direction <- ordered(ifelse(slope > 0, "Increasing", "Decreasing"), levels = c("Increasing",
+        "Decreasing"))
+    pval <- round(l$coefficients[2, "Pr(>|t|)"],4)## avoids scientific notation
+    signif <- cut(pval, breaks = c(0, 0.05, 0.1, 1), labels = c("p<0.05", "0.05<p<0.10","p>0.10"))
+    data.frame(METHOD = "LinearRegression", SLOPE = slope, SLOPE.PCT = slope.pct,
+        PVAL = pval, SIGNIF = signif, DIRECTION = direction)
+
+}
+
+
+```
+
+
+
+Figure 3: Changes in slope of immunization coverage for DTPCV1, DTPCV3 and MCV1 between 2012 and 2021, by country and African regions (Eastern, Middle, Northern,Southern and Western Africa).
+
+
+Table 1: trend in immunization coverage from the 2012 baseline values to 2021 for the 54
+African countries
+
+```{r, message=FALSE, warning=FALSE, echo=FALSE}
+
+#We silence warning due to perfect fits in some coverage values for some countries
+#library(plyr)
+trend.lm.batch <- ddply(All.data.ts, c("NAME", "ANTIGEN"), trend.lm)
+trends <- rbind(trend.lm.batch)
+#View(trends)
+# We add to the trend table a variable estimating the significant increase and decrease based on values of slope and p. We will have
+#Significant increase, significant increase, moderate increase, moderate decrease, no change
+
+trends <- trends %>% mutate(
+  true.change = case_when(
+    SLOPE>0 & PVAL<0.05 ~ "Significant increase",
+    SLOPE>0 & PVAL>=0.05 ~ "Non-significant increase",
+    SLOPE<0 & PVAL<0.05 ~ "Significant decrease",
+    SLOPE<0 & PVAL>=0.05 ~ "Non-significant decrease",
+    SLOPE==0 ~ "No change",
+  )
+)
+
+table(trends$true.change, trends$ANTIGEN)
+
+#We merge to get the region
+country_region<-Main_Analysis_Table %>% select(NAME,REGION)
+country_region_unique<- country_region%>% distinct(NAME, .keep_all = TRUE)
+trends2 <- merge(country_region_unique,trends,by="NAME")
+trends2$SLOPE.PCT_FULL<-(trends2$SLOPE.PCT)*100
+
+#We detach de plyr package, it messes up the group_by function.
+#detach(package:plyr)
+
+sjPlot::tab_xtab(trends$true.change, trends$ANTIGEN, show.col.prc = TRUE, show.summary = FALSE, emph.total = FALSE)
+
+# We calculate the proportion of changes by african regions and antigens
+
+#create a table to summarize the proportions
+
+table.change.cov<-table.change.cov%>% mutate(
+  change.label=case_when(
+    true.change=="No change" ~ "0-No change",
+    true.change=="Non-significant decrease" ~ "1-Decrease (NS)",
+    true.change=="Significant decrease" ~ "2-Decrease (S)",
+    true.change=="Non-significant increase" ~ "3-Increase (NS)",
+    true.change=="Significant increase" ~ "4-Increase (S)",
+  )
+)
+
+
+
+```
+
+
+
+```{r, echo=FALSE,warning=FALSE, message=FALSE}
+#library(plotly)
+
+
+#get_country_code<-Main_Analysis_Table %>% select(CODE, NAME)
+#Merge get_country_code with trend table
+trends<-trends %>% mutate(
+  Region = case_when(
+    NAME %in% Middle.Africa ~ "MA",
+    NAME %in% Western.Africa ~ "WA",
+    NAME %in% Southern.Africa ~ "SA",
+    NAME %in% Northern.Africa ~ "NA",
+    NAME %in% Eastern.Africa ~ "EA"
+  )
+)
+
+p <- ggplot(trends, aes(x = SLOPE, y = NAME))+
+  geom_col(aes(fill = DIRECTION), width = .7)+
+  geom_vline(xintercept = 0, color="red", linewidth=0.45)+
+  facet_grid(Region~ANTIGEN, scales = "free", space = "free_y")+ theme_bw()+
+  ylab("")+xlab("Slope of change in coverage")+
+  guides(fill=guide_legend(title="Change in slope"))+
+  scale_fill_manual(values=c("darkblue", "red")) +
+   theme(axis.text.x = element_text(size =18),
+        axis.text.y = element_text(size = 15),
+        #plot.margin = margin(2, 2, 2, 2, unit = "cm"),
+		plot.title = element_text(size = 20, face = "bold"),
+        legend.position='top', 
+        legend.justification='left',
+        legend.direction='horizontal',
+		legend.text=element_text(size=20), #change font size of legend text
+        legend.title=element_text(size=20), #change font size of legend title  
+		strip.text = element_text(size = 20),
+         strip.text.y = element_text(angle = 90)
+         )
+
+p
+
+
+#Save as an image for better display
+#ggsave("figure1.jpg", plot=p, height=38, width=40, units="cm", dpi=300)
+
+q <- ggplot(subset(trends, Region=="Western Africa"), aes(x = SLOPE, y = NAME))+
+	geom_col(aes(fill = DIRECTION), width = .7)+
+	geom_vline(xintercept = 0, color="red", linewidth=0.45)+
+	facet_grid(Region~ANTIGEN, scales = "free", space = "free")+ theme_bw()+
+	#ggtitle("Figure X: Slopes of change in immunization coverage by \n country and antigen")+
+	ylab("")+xlab("Slope of change in coverage")+
+	guides(fill=guide_legend(title="Change in slope"))+
+	scale_fill_manual(values=c("darkblue", "red")) +
+	theme(axis.text.x = element_text(size = 10),
+			axis.text.y = element_text(size = 10),
+			strip.text.y = element_text(angle = 0),
+			plot.margin = margin(0.5, 0.5, 0.5, 0.5, unit = "cm"),
+			axis.title.y = element_text(margin = margin(t = 0.6, b = 0.6, unit = "cm")),
+			plot.title = element_text(size = 15, face = "bold"),
+			legend.position='top', 
+			legend.justification='left',
+			legend.direction='horizontal'
+         )
+
+q
+
+
+
+```
+
+
+```{r, echo=FALSE}
+
+#Creating regression of coverage over time function
+#This allows us to display various regression statistics.
+
+facetRegression <- function(dat, xvar, yvar, group, varname) {
+  fml <- paste(yvar, "~", xvar)
+  group <- rlang::sym(group)
+  wrap_fml <- rlang::new_formula(rhs = group, lhs = NULL)
+  dot <- rlang::quo(-!!group)
+
+  dat %>%
+    nest(!!dot) %>%
+    mutate(model = map(data, ~ lm(fml, data = .x)),
+           adj.r.squared = map_dbl(model, ~ signif(summary(.x)$adj.r.squared, 5)),
+           intercept = map_dbl(model, ~ signif(.x$coef[[1]],5)),
+           slope = map_dbl(model, ~ signif(.x$coef[[2]], 2)),
+           pvalue = map_dbl(model, ~ signif(summary(.x)$coef[2,4], 4))
+    ) %>%
+    select(-data, -model) %>%
+    left_join(dat) %>%
+
+    ggplot(aes_string(xvar, yvar)) +
+    geom_point(color="red")+
+    geom_smooth(se = FALSE, method = "lm") +
+    facet_wrap(wrap_fml) +
+      theme_bw()+ 
+      theme(
+			axis.text.y = element_text(size = 15),
+			strip.text = element_text(size = 22),
+			axis.text.x = element_text(color = "black",size = 15, angle = 90),
+			plot.title = element_text(size = 15, face = "bold")
+        )+
+    ggtitle(paste("Figure: Coverage trends (2012 - 2021) for ", varname))+
+    ylim(0, 110)+
+    geom_text(aes(2015, 25, label = paste(#"Adj R2 = ", adj.r.squared, "\n", //Hiding the R2 and intercept, too crowded
+        #"Intercept =",intercept, "\n",
+        "S:", round(slope, digits = 2), " \n", #keeping slope and p values
+        "P:", round(pvalue,digits = 3))),size=15/.pt, color="red")
+}
+
+```
+
+
+#### Country trajectories of IIAG over time
+
+
+Figure 3 (annex): trends of IIAG overall scores over time for individual countries across regions in Africa (2012 – 2021)
+
+```{r, echo=FALSE}
+
+score_by_time<-ggplot(Main_Analysis_Table,             
+            aes(x = YEAR,
+            y = IIAG_SCORE,
+            color = NAME)) +  geom_line(show.legend = FALSE) +
+  facet_wrap(~REGION)+
+		theme_light()+
+		theme(legend.position = "none")+
+geom_hline(yintercept=48.37981, color="black", linewidth=1)+
+		xlab("Years")+
+		ylab("IIAG score")+
+		#ggtitle("Figure 4: Trends in IIAG score for 54 African countries grouped by \n UN Regional grouping")+
+		scale_x_continuous(breaks = min(Main_Analysis_Table$YEAR):max(Main_Analysis_Table$YEAR))+
+		theme(
+			axis.text.x = element_text(color = "grey",
+			size = 8, angle = 90)
+		)
+
+score_by_time
+
+#save as image for better display
+
+
+```
+
+
+#### summary statistics of coverage by quintile of IIAG overall score
+Figure 4 (Annex): Distribution of immunization coverage by antigens (DTPCV1, DTPCV3 and MCV1) and quintiles of governance score
+
+
+```{r, echo=FALSE}
+#create the quintiles
+vQuint = quantile(Main_Analysis_Table$IIAG_SCORE, c(0:5/5))
+Main_Analysis_Table$IIAG_SCORE_QT = with(Main_Analysis_Table,
+               cut(IIAG_SCORE,
+                   vQuint,
+                   include.lowest = T,
+                   labels = c("1", "2", "3", "4", "5")))
+
+
+Main_Analysis_Table%>%group_by(IIAG_SCORE_QT) %>%
+  summarise(
+  min.score=min(IIAG_SCORE),
+  mean.score=mean(IIAG_SCORE),
+  sd.score=sd(IIAG_SCORE),
+  max.score=max(IIAG_SCORE)
+)
+
+boxplot_IIAG_cov<-ggplot(data=Main_Analysis_Table,
+       aes(x=IIAG_SCORE_QT,y=COVERAGE, fill=ANTIGEN))+
+       geom_boxplot()+
+  ylab("Immunization coverage (%)")+
+  xlab("IIAG quintiles")+
+  #geom_hline(yintercept = mean(Main_Analysis_Table$IIAG_SCORE), color="red", linewidth=1)+
+    theme_light()+
+   theme(legend.position = "top")
+    #ggtitle("Figure: Ditribution of Coverage by IIAG quintiles")
+
+
+boxplot_IIAG_cov
+
+```
+
+#### Modeling coverage over time
+
+Summary compiled in Table 2: Crude and adjusted effect sizes (𝛽 estimates) of measure of governance (IIAG) on coverage trends for DTPCV1, DTPCV3, MCV1
+
+**Controlling for covariates (Level 1: IIAG overall score, target population, level 2: country grouping)**
+
+
+
+#### Model 1
+
+**with IIAG score only, as a continuous predictor**
+
+```{r}
+
+print("--------------------DTPCV1--------------------------")
+l1.dtpcv1.score <- lmer(COVERAGE ~ 1 + YEARNUM  + IIAG_SCORE + IIAG_SCORE:YEARNUM + (1|NAME) + (0 + YEARNUM|NAME), data = subset(Main_Analysis_Table, ANTIGEN=="DTPCV1"), REML = FALSE)
+summary(l1.dtpcv1.score)
+confint(l1.dtpcv1.score)
+performance::icc(l1.dtpcv1.score)
+sjPlot::tab_model(l1.dtpcv1.score)
+
+print("--------------------DTPCV3--------------------------")
+
+l1.dtpcv3.score <- lmer(COVERAGE ~ 1 + YEARNUM  + IIAG_SCORE + IIAG_SCORE:YEARNUM + (1|NAME) + (0 + YEARNUM|NAME), data = subset(Main_Analysis_Table, ANTIGEN=="DTPCV3"), REML = FALSE)
+summary(l1.dtpcv3.score)
+confint(l1.dtpcv3.score)
+performance::icc(l1.dtpcv3.score)
+sjPlot::tab_model(l1.dtpcv3.score)
+
+print("--------------------MCV1--------------------------")
+
+l1.mcv1.score <- lmer(COVERAGE ~ 1 + YEARNUM  + IIAG_SCORE + IIAG_SCORE:YEARNUM + (1|NAME) + (0 + YEARNUM|NAME), data = subset(Main_Analysis_Table, ANTIGEN=="MCV1"), REML = FALSE)
+summary(l1.mcv1.score)
+confint(l1.mcv1.score)
+
+performance::icc(l1.mcv1.score)
+sjPlot::tab_model(l1.mcv1.score)
+
+
+```
+
+#### Model 2 Controlling for target population size
+
+```{r}
+
+print("--------------------DTPCV1--------------------------")
+l1.dtpcv1.score.target <- lmer(COVERAGE ~ 1 + YEARNUM  + IIAG_SCORE + IIAG_SCORE:YEARNUM + LOG_TARGET + LOG_TARGET:YEARNUM+ (1|NAME) + (0 + YEARNUM|NAME), data = subset(Main_Analysis_Table, ANTIGEN=="DTPCV1"), REML = FALSE)
+summary(l1.dtpcv1.score.target)
+confint(l1.dtpcv1.score.target)
+sjPlot::tab_model(l1.dtpcv1.score.target)
+print("--------------------DTPCV3--------------------------")
+l1.dtpcv3.score.target <- lmer(COVERAGE ~ 1 + YEARNUM  + IIAG_SCORE + IIAG_SCORE:YEARNUM + LOG_TARGET + LOG_TARGET:YEARNUM+ (1|NAME) + (0 + YEARNUM|NAME), data = subset(Main_Analysis_Table, ANTIGEN=="DTPCV3"), REML = FALSE)
+summary(l1.dtpcv3.score.target)
+confint(l1.dtpcv3.score.target)
+sjPlot::tab_model(l1.dtpcv3.score.target)
+
+print("--------------------MCV11--------------------------")
+l1.mcv1.score.target <- lmer(COVERAGE ~ 1 + YEARNUM  + IIAG_SCORE + IIAG_SCORE:YEARNUM + LOG_TARGET + LOG_TARGET:YEARNUM+ (1|NAME) + (0 + YEARNUM|NAME), data = subset(Main_Analysis_Table, ANTIGEN=="MCV1"), REML = FALSE)
+summary(l1.mcv1.score.target)
+confint(l1.mcv1.score.target)
+sjPlot::tab_model(l1.mcv1.score.target)
+
+
+```
+
+**We compare the model 1 and model 2 deviances for MCV1 only**
+
+```{r}
+#l1.mcv1.score: score only
+# l1.mcv1.score.target score and target pop
+anova(l1.mcv1.score,l1.mcv1.score.target)
+
+```
+
+Model 2, that includes the population size is associated with a greater, but not significant decrease in deviance, compared to model 1 (3377.9 vs 3383.3), suggesting that it provides a better fit to the dynamics of MCv1 coverage over time, based on the parameters of the model.
+
+#### Model 3 Controlling for target population size and region
+
+```{r}
+l1.dtpcv1.score.target.region <- lmer(COVERAGE ~ 1 + YEARNUM  + IIAG_SCORE + REGION + REGION:IIAG_SCORE+ IIAG_SCORE:YEARNUM + LOG_TARGET + LOG_TARGET:YEARNUM+ (1|NAME) + (0 + YEARNUM|NAME), data = subset(Main_Analysis_Table, ANTIGEN=="DTPCV1"), REML = FALSE)
+summary(l1.dtpcv1.score.target.region)
+confint(l1.dtpcv1.score.target.region)
+#performance::icc(l1.dtpcv1.score.target.region)
+sjPlot::tab_model(l1.dtpcv1.score.target.region)
+
+l1.dtpcv3.score.target.region <- lmer(COVERAGE ~ 1 + YEARNUM  + IIAG_SCORE + REGION + REGION:IIAG_SCORE+ IIAG_SCORE:YEARNUM + LOG_TARGET + LOG_TARGET:YEARNUM+ (1|NAME) + (0 + YEARNUM|NAME), data = subset(Main_Analysis_Table, ANTIGEN=="DTPCV3"), REML = FALSE)
+summary(l1.dtpcv3.score.target.region)
+confint(l1.dtpcv3.score.target.region)
+#performance::icc(l1.dtpcv3.score.target.region)
+sjPlot::tab_model(l1.dtpcv3.score.target.region)
+
+l1.mcv1.score.target.region <- lmer(COVERAGE ~ 1 + YEARNUM  + IIAG_SCORE + REGION + REGION:IIAG_SCORE+ IIAG_SCORE:YEARNUM + LOG_TARGET + LOG_TARGET:YEARNUM+ (1|NAME) + (0 + YEARNUM|NAME), data = subset(Main_Analysis_Table, ANTIGEN=="MCV1"), REML = FALSE)
+summary(l1.mcv1.score.target.region)
+confint(l1.mcv1.score.target.region)
+#performance::icc(l1.mcv1.score.target.region)
+sjPlot::tab_model(l1.mcv1.score.target.region)
+
+```
+
+**We compare Model 2 and Model 3 deviances for MCV1 only**
+
+```{r}
+#l1.mcv1.score.target score and target
+#l1.mcv1.score.target.region adding level 2 - Region
+anova(l1.mcv1.score.target,l1.mcv1.score.target.region)
+
+```
+
+Model 3 is associated with a significantly lower deviance (3357.4, $P\lt 0.0003947$), and is an even better fit of MCV1 coverage over time and was selected as best-fit to model the dynamic of coverage over time.
+Same analysis done with other antigens. Results summarize in table 2 of the manuscript
+
+
+Figure 2 (A, B, and C): distribution of country’s mean immunization coverage, governance score, and population size throughout the 10-year analysis period. Bubble sizes are proportional to the country’s population size.
+
+```{r}
+
+#preparing data for the bubble graph
+
+bubble.data.MCV1<-Main_Analysis_Table %>% filter (ANTIGEN=="MCV1") %>% group_by(CODE) %>%
+  summarise(
+    COVERAGE = mean(COVERAGE),
+    IIAG_SCORE = mean(IIAG_SCORE),
+    TARGET = mean(TARGET)
+  )
+
+bubble.data.DTPCV1<-Main_Analysis_Table %>% filter (ANTIGEN=="DTPCV1") %>% group_by(CODE) %>%
+  summarise(
+    COVERAGE = mean(COVERAGE),
+    IIAG_SCORE = mean(IIAG_SCORE),
+    TARGET = mean(TARGET)
+  )
+
+bubble.data.DTPCV3<-Main_Analysis_Table %>% filter (ANTIGEN=="DTPCV3") %>% group_by(CODE) %>%
+  summarise(
+    COVERAGE = mean(COVERAGE),
+    IIAG_SCORE = mean(IIAG_SCORE),
+    TARGET = mean(TARGET)
+  )
+
+
+
+
+```
+
+
+```{r}
+library(readr)
+revised_scores2 <- read_csv("revised_scores2.csv")
+
+
+Main_Analysis_Table2<-Main_Analysis_Table
+New_analysis_table <- merge(Main_Analysis_Table2,revised_scores2,by=c("CODE","YEAR"))
+write.csv(New_analysis_table,"New_analysis_table.csv")
+
+```
+
+
+
+Old score and new score
+Figure 2 (annex): Distributions of the original IIAG (red) and modified (bleu) score
+
+```{r}
+
+compare.score.plot<-Main_Analysis_Table %>%
+ggplot(aes(x=IIAG_SCORE))+
+  geom_density(aes(), color="blue", linewidth=2)+
+  geom_density(aes(x=ogs), color="red", linewidth=2)+
+  xlab("Overall Governance Score")+
+  theme_classic()
+
+compare.score.plot
+
+
+
+
+```
+```{r}
+summary(Main_Analysis_Table$IIAG_SCORE)
+sd(Main_Analysis_Table$IIAG_SCORE)
+
+summary(Main_Analysis_Table$ogs)
+sd(Main_Analysis_Table$ogs)
+
+```
+
+
+
+```{r}
+
+bubble.trend.MCV1<-pop.trend %>% filter (ANTIGEN=="MCV1")
+
+plot.mcv1<-ggplot(bubble.trend.MCV1, aes(x=mean.iiags, y=SLOPE, size = mean.target, color=NAME)) +
+    geom_point(alpha=0.8)+
+  #geom_text( aes(label=CODE), nudge_y= -2, nudge_x= +2, size=3, color="black")+
+  geom_vline(xintercept=48.37981, color="red", linewidth=0.25)+
+  geom_hline(yintercept=0, color="red", linewidth=0.25)+
+  #theme_classic()+
+  scale_size(range = c(.1, 24), name="Population (M)")+
+  scale_fill_viridis(discrete=TRUE, guide=FALSE, option = "D") +
+   
+    theme_ipsum() +
+    ylab("Slope Change MCV1 Coverage") +
+    xlab("IIAG overall score") +
+  #ylim(-1, 1)+
+    theme(legend.position = "none")
+
+plot.mcv1
+
+
+
+
+```
+
